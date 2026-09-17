@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:c02765bc3c1418664c32c062ceedb49b$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="nacho.png" width="1595" height="244">
+    <sprite n="nacho0001" x="647" y="82" w="88" h="78" oX="26" oY="11" oW="150" oH="90"/>
+    <sprite n="nacho0002" x="603" y="163" w="88" h="78" oX="26" oY="11" oW="150" oH="90"/>
+    <sprite n="nacho0003" x="736" y="80" w="84" h="78" oX="29" oY="11" oW="150" oH="90"/>
+    <sprite n="nacho0004" x="884" y="1" w="82" h="78" oX="31" oY="11" oW="150" oH="90"/>
+    <sprite n="nacho0005" x="821" y="80" w="82" h="78" oX="31" oY="11" oW="150" oH="90"/>
+    <sprite n="nacho0006" x="779" y="159" w="82" h="78" oX="31" oY="11" oW="150" oH="90"/>
+    <sprite n="nacho0007" x="692" y="161" w="86" h="78" oX="28" oY="11" oW="150" oH="90"/>
+    <sprite n="nacho0008" x="714" y="1" w="86" h="78" oX="28" oY="11" oW="150" oH="90"/>
+    <sprite n="nacho0009" x="520" y="163" w="82" h="80" oX="30" oY="7" oW="150" oH="90"/>
+    <sprite n="nacho0010" x="327" y="84" w="80" h="82" oX="33" oY="5" oW="150" oH="90"/>
+    <sprite n="nacho0011" x="161" y="1" w="76" h="84" oX="37" oY="4" oW="150" oH="90"/>
+    <sprite n="nacho0012" x="240" y="86" w="86" h="82" oX="28" oY="7" oW="150" oH="90"/>
+    <sprite n="nacho0013" x="483" y="82" w="84" h="80" oX="29" oY="8" oW="150" oH="90"/>
+    <sprite n="nacho0014" x="554" y="1" w="82" h="80" oX="30" oY="8" oW="150" oH="90"/>
+    <sprite n="nacho0015" x="1256" y="1" w="80" h="76" oX="32" oY="13" oW="150" oH="90"/>
+    <sprite n="nacho0016" x="1319" y="153" w="80" h="74" oX="27" oY="15" oW="150" oH="90"/>
+    <sprite n="nacho0017" x="392" y="1" w="76" h="82" oX="31" oY="6" oW="150" oH="90"/>
+    <sprite n="nacho0018" x="469" y="1" w="84" h="80" oX="28" oY="0" oW="150" oH="90"/>
+    <sprite n="nacho0019" x="1377" y="76" w="108" h="72" oX="13" oY="0" oW="150" oH="90"/>
+    <sprite n="nacho0020" x="203" y="171" w="108" h="72" oX="13" oY="0" oW="150" oH="90"/>
+    <sprite n="nacho0021" x="939" y="157" w="100" h="76" oX="19" oY="1" oW="150" oH="90"/>
+    <sprite n="nacho0022" x="967" y="1" w="100" h="76" oX="18" oY="3" oW="150" oH="90"/>
+    <sprite n="nacho0023" x="1486" y="74" w="100" h="64" oX="16" oY="25" oW="150" oH="90"/>
+    <sprite n="nacho0024" x="1" y="183" w="100" h="58" oX="16" oY="31" oW="150" oH="90"/>
+    <sprite n="nacho0025" x="1337" y="1" w="86" h="74" oX="27" oY="15" oW="150" oH="90"/>
+    <sprite n="nacho0026" x="1068" y="1" w="98" h="76" oX="8" oY="13" oW="150" oH="90"/>
+    <sprite n="nacho0027" x="1011" y="78" w="98" h="76" oX="13" oY="13" oW="150" oH="90"/>
+    <sprite n="nacho0028" x="1424" y="1" w="94" h="72" oX="19" oY="17" oW="150" oH="90"/>
+    <sprite n="nacho0029" x="1284" y="78" w="92" h="74" oX="23" oY="15" oW="150" oH="90"/>
+    <sprite n="nacho0030" x="904" y="80" w="106" h="76" oX="23" oY="13" oW="150" oH="90"/>
+    <sprite n="nacho0031" x="413" y="167" w="106" h="76" oX="25" oY="13" oW="150" oH="90"/>
+    <sprite n="nacho0032" x="1201" y="78" w="82" h="76" oX="21" oY="13" oW="150" oH="90"/>
+    <sprite n="nacho0033" x="801" y="1" w="82" h="78" oX="20" oY="11" oW="150" oH="90"/>
+    <sprite n="nacho0034" x="1110" y="78" w="90" h="76" oX="20" oY="13" oW="150" oH="90"/>
+    <sprite n="nacho0035" x="1167" y="1" w="88" h="76" oX="32" oY="13" oW="150" oH="90"/>
+    <sprite n="nacho0036" x="1040" y="155" w="92" h="76" oX="31" oY="13" oW="150" oH="90"/>
+    <sprite n="nacho0037" x="1133" y="155" w="84" h="76" oX="25" oY="13" oW="150" oH="90"/>
+    <sprite n="nacho0038" x="1519" y="1" w="72" h="72" oX="0" oY="17" oW="150" oH="90"/>
+    <sprite n="nacho0039" x="1218" y="155" w="100" h="74" oX="18" oY="3" oW="150" oH="90"/>
+    <sprite n="nacho0040" x="312" y="169" w="100" h="74" oX="18" oY="2" oW="150" oH="90"/>
+    <sprite n="nacho0041" x="102" y="177" w="100" h="64" oX="16" oY="25" oW="150" oH="90"/>
+    <sprite n="nacho0042" x="1400" y="149" w="82" h="64" oX="30" oY="25" oW="150" oH="90"/>
+    <sprite n="nacho0043" x="1486" y="139" w="92" h="72" oX="21" oY="17" oW="150" oH="90"/>
+    <sprite n="nacho0044" x="1" y="92" w="76" h="90" oX="29" oY="0" oW="150" oH="90"/>
+    <sprite n="nacho0045" x="1" y="1" w="78" h="90" oX="28" oY="0" oW="150" oH="90"/>
+    <sprite n="nacho0046" x="159" y="86" w="80" h="84" oX="28" oY="5" oW="150" oH="90"/>
+    <sprite n="nacho0047" x="80" y="1" w="80" h="84" oX="28" oY="5" oW="150" oH="90"/>
+    <sprite n="nacho0048" x="78" y="92" w="80" h="84" oX="28" oY="5" oW="150" oH="90"/>
+    <sprite n="nacho0049" x="78" y="92" w="80" h="84" oX="28" oY="5" oW="150" oH="90"/>
+    <sprite n="nacho0050" x="78" y="92" w="80" h="84" oX="28" oY="5" oW="150" oH="90"/>
+    <sprite n="nacho0051" x="78" y="92" w="80" h="84" oX="28" oY="5" oW="150" oH="90"/>
+    <sprite n="nacho_recoil0009" x="637" y="1" w="76" h="80" oX="31" oY="7" oW="150" oH="90"/>
+    <sprite n="nacho_recoil0010" x="408" y="84" w="74" h="82" oX="33" oY="5" oW="150" oH="90"/>
+    <sprite n="nacho_recoil0011" x="238" y="1" w="72" h="84" oX="36" oY="4" oW="150" oH="90"/>
+    <sprite n="nacho_recoil0012" x="311" y="1" w="80" h="82" oX="29" oY="7" oW="150" oH="90"/>
+    <sprite n="nacho_recoil0013" x="568" y="82" w="78" h="80" oX="30" oY="8" oW="150" oH="90"/>
+    <sprite n="nacho_recoil0014" x="862" y="159" w="76" h="78" oX="31" oY="10" oW="150" oH="90"/>
+</TextureAtlas>

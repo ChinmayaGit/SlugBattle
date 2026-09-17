@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:0311d68f53015b534890882164b01729$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="enigmo.png" width="689" height="256">
+    <sprite n="enigmoBig" x="563" y="129" w="61" h="100" oX="6" oY="0" oW="75" oH="100"/>
+    <sprite n="enigmoDiagram" x="1" y="1" w="442" h="148" oX="244" oY="292" oW="750" oH="500"/>
+    <sprite n="enigmoIcon" x="1" y="150" w="115" h="98"/>
+    <sprite n="enigmoPower" x="444" y="1" w="134" h="111"/>
+    <sprite n="enigmo_projectile_lev1_0001" x="579" y="1" w="109" h="64" oX="0" oY="2" oW="111" oH="66"/>
+    <sprite n="enigmo_projectile_lev1_0002" x="579" y="66" w="109" h="62" oX="1" oY="3" oW="111" oH="66"/>
+    <sprite n="enigmo_projectile_lev1_0003" x="341" y="150" w="111" h="62" oX="0" oY="2" oW="111" oH="66"/>
+    <sprite n="enigmo_projectile_lev1_0004" x="453" y="113" w="109" h="60" oX="2" oY="4" oW="111" oH="66"/>
+    <sprite n="enigmo_projectile_lev1_0005" x="229" y="150" w="111" h="62" oX="0" oY="3" oW="111" oH="66"/>
+    <sprite n="enigmo_projectile_lev1_0006" x="117" y="150" w="111" h="62" oX="0" oY="3" oW="111" oH="66"/>
+    <sprite n="enigmo_projectile_lev1_0007" x="453" y="174" w="105" h="64" oX="4" oY="2" oW="111" oH="66"/>
+    <sprite n="slug_enigmo0001" x="179" y="213" w="26" h="42" oX="10" oY="8" oW="48" oH="50"/>
+    <sprite n="slug_enigmo0002" x="405" y="213" w="26" h="38" oX="9" oY="12" oW="48" oH="50"/>
+    <sprite n="slug_enigmo0003" x="625" y="219" w="26" h="36" oX="9" oY="14" oW="48" oH="50"/>
+    <sprite n="slug_enigmo0004" x="378" y="213" w="26" h="38" oX="11" oY="12" oW="48" oH="50"/>
+    <sprite n="slug_enigmo0005" x="148" y="213" w="30" h="42" oX="11" oY="8" oW="48" oH="50"/>
+    <sprite n="slug_enigmo0006" x="117" y="213" w="30" h="42" oX="11" oY="8" oW="48" oH="50"/>
+    <sprite n="slug_enigmo0007" x="239" y="213" w="30" h="40" oX="12" oY="10" oW="48" oH="50"/>
+    <sprite n="slug_enigmo0008" x="206" y="213" w="32" h="40" oX="11" oY="10" oW="48" oH="50"/>
+    <sprite n="slug_enigmo0009" x="654" y="174" w="28" h="40" oX="11" oY="10" oW="48" oH="50"/>
+    <sprite n="slug_enigmo0010" x="351" y="213" w="26" h="40" oX="10" oY="10" oW="48" oH="50"/>
+    <sprite n="slug_enigmo0011" x="324" y="213" w="26" h="40" oX="11" oY="9" oW="48" oH="50"/>
+    <sprite n="slug_enigmo0012" x="297" y="213" w="26" h="40" oX="10" oY="8" oW="48" oH="50"/>
+    <sprite n="slug_enigmo0013" x="654" y="215" w="24" h="40" oX="11" oY="7" oW="48" oH="50"/>
+    <sprite n="slug_enigmo0014" x="270" y="213" w="26" h="40" oX="10" oY="8" oW="48" oH="50"/>
+    <sprite n="slug_enigmo0015" x="654" y="129" w="28" h="44" oX="9" oY="4" oW="48" oH="50"/>
+    <sprite n="slug_enigmo0016" x="625" y="174" w="28" h="44" oX="9" oY="4" oW="48" oH="50"/>
+    <sprite n="slug_enigmo0017" x="625" y="129" w="28" h="44" oX="9" oY="5" oW="48" oH="50"/>
+</TextureAtlas>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:845794081c6aa09799986d0554a6fcd3$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="challenge_lvl.png" width="512" height="999">
+    <sprite n="bubble_totem" x="1" y="476" w="182" h="349" oX="0" oY="0" oW="192" oH="349"/>
+    <sprite n="burpy_totem" x="153" y="1" w="176" h="334"/>
+    <sprite n="fallingplatform_1" x="1" y="1" w="151" h="474" oX="12" oY="19" oW="179" oH="526"/>
+    <sprite n="fallingplatform_2" x="355" y="299" w="116" h="344" oX="8" oY="3" oW="124" oH="364"/>
+    <sprite n="freeze_totem" x="406" y="644" w="105" h="192"/>
+    <sprite n="moving_platformx3" x="1" y="936" w="48" h="30"/>
+    <sprite n="platformx15" x="1" y="826" w="240" h="109"/>
+    <sprite n="rammer_totem" x="330" y="1" w="166" h="297"/>
+    <sprite n="tazer_totem" x="184" y="336" w="170" h="326" oX="7" oY="0" oW="184" oH="330"/>
+    <sprite n="vine_totem" x="242" y="663" w="163" h="335" oX="6" oY="6" oW="183" oH="351"/>
+</TextureAtlas>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:e0ceb764065376d39eb3419d50fb23ab$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="bubble.png" width="1024" height="489">
+    <sprite n="bubbleBig" x="897" y="379" w="70" h="98" oX="13" oY="0" oW="100" oH="100"/>
+    <sprite n="bubbleDiagram" x="115" y="357" w="358" h="124" oX="289" oY="301" oW="750" oH="500"/>
+    <sprite n="bubbleIcon" x="897" y="141" w="113" h="95"/>
+    <sprite n="bubblePower" x="739" y="159" w="102" h="154"/>
+    <sprite n="slug_bubble_explode0001" x="897" y="237" w="105" h="141" oX="126" oY="41" oW="359" oH="197"/>
+    <sprite n="slug_bubble_explode0002" x="1" y="357" w="113" h="125" oX="125" oY="47" oW="359" oH="197"/>
+    <sprite n="slug_bubble_explode0003" x="474" y="351" w="119" h="133" oX="122" oY="47" oW="359" oH="197"/>
+    <sprite n="slug_bubble_explode0004" x="834" y="1" w="183" h="139" oX="103" oY="35" oW="359" oH="197"/>
+    <sprite n="slug_bubble_explode0005" x="293" y="179" w="243" h="171" oX="64" oY="16" oW="359" oH="197"/>
+    <sprite n="slug_bubble_explode0006" x="1" y="179" w="291" h="177" oX="38" oY="8" oW="359" oH="197"/>
+    <sprite n="slug_bubble_explode0007" x="1" y="1" w="327" h="177" oX="23" oY="8" oW="359" oH="197"/>
+    <sprite n="slug_bubble_fx0001" x="537" y="167" w="100" h="165"/>
+    <sprite n="slug_bubble_fx0002" x="796" y="314" w="100" h="153" oX="0" oY="0" oW="100" oH="165"/>
+    <sprite n="slug_bubble_fx0003" x="632" y="1" w="100" h="163" oX="0" oY="0" oW="100" oH="165"/>
+    <sprite n="slug_bubble_fx0004" x="695" y="327" w="100" h="159" oX="0" oY="0" oW="100" oH="165"/>
+    <sprite n="slug_bubble_fx0005" x="531" y="1" w="100" h="165"/>
+    <sprite n="slug_bubble_fx0006" x="430" y="1" w="100" h="165"/>
+    <sprite n="slug_bubble_fx0007" x="733" y="1" w="100" h="157" oX="0" oY="0" oW="100" oH="165"/>
+    <sprite n="slug_bubble_fx0008" x="329" y="1" w="100" h="165"/>
+    <sprite n="slug_bubble_fx0009" x="638" y="165" w="100" h="161" oX="0" oY="0" oW="100" oH="165"/>
+    <sprite n="slug_bubble_fx0010" x="594" y="333" w="100" h="155" oX="0" oY="0" oW="100" oH="165"/>
+    <sprite n="slug_bubble_hop0001" x="869" y="141" w="26" h="38" oX="0" oY="0" oW="28" oH="42"/>
+    <sprite n="slug_bubble_hop0002" x="842" y="141" w="26" h="38" oX="1" oY="1" oW="28" oH="42"/>
+    <sprite n="slug_bubble_hop0003" x="968" y="453" w="26" h="34" oX="0" oY="7" oW="28" oH="42"/>
+    <sprite n="slug_bubble_hop0004" x="995" y="416" w="26" h="36" oX="0" oY="5" oW="28" oH="42"/>
+    <sprite n="slug_bubble_hop0005" x="842" y="254" w="24" h="38" oX="0" oY="2" oW="28" oH="42"/>
+    <sprite n="slug_bubble_hop0006" x="869" y="141" w="26" h="38" oX="0" oY="0" oW="28" oH="42"/>
+    <sprite n="slug_bubble_hop0007" x="842" y="141" w="26" h="38" oX="1" oY="1" oW="28" oH="42"/>
+    <sprite n="slug_bubble_hop0008" x="968" y="453" w="26" h="34" oX="0" oY="7" oW="28" oH="42"/>
+    <sprite n="slug_bubble_idle0001" x="968" y="416" w="26" h="36" oX="0" oY="5" oW="28" oH="42"/>
+    <sprite n="slug_bubble_idle0002" x="995" y="379" w="26" h="36" oX="0" oY="5" oW="28" oH="42"/>
+    <sprite n="slug_bubble_idle0003" x="968" y="379" w="26" h="36" oX="0" oY="5" oW="28" oH="42"/>
+    <sprite n="slug_bubble_idle0004" x="867" y="254" w="26" h="36" oX="1" oY="5" oW="28" oH="42"/>
+    <sprite n="slug_bubble_idle0005" x="869" y="217" w="26" h="36" oX="1" oY="5" oW="28" oH="42"/>
+    <sprite n="slug_bubble_idle0006" x="842" y="217" w="26" h="36" oX="1" oY="5" oW="28" oH="42"/>
+    <sprite n="slug_bubble_idle0007" x="869" y="180" w="26" h="36" oX="0" oY="5" oW="28" oH="42"/>
+    <sprite n="slug_bubble_idle0008" x="842" y="180" w="26" h="36" oX="0" oY="5" oW="28" oH="42"/>
+</TextureAtlas>

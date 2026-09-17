@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:1dfb14c757b8e38f8edb4d2f4ac44819$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="effects.png" width="669" height="255">
+    <sprite n="deadenemy0001" x="570" y="1" w="74" h="88" oX="69" oY="27" oW="220" oH="150"/>
+    <sprite n="deadenemy0002" x="168" y="138" w="92" h="96" oX="58" oY="25" oW="220" oH="150"/>
+    <sprite n="deadenemy0003" x="1" y="138" w="166" h="90" oX="22" oY="20" oW="220" oH="150"/>
+    <sprite n="deadenemy0004" x="1" y="1" w="204" h="136" oX="5" oY="0" oW="220" oH="150"/>
+    <sprite n="deadenemy0005" x="206" y="1" w="220" h="122" oX="0" oY="0" oW="220" oH="150"/>
+    <sprite n="deadenemy0006" x="261" y="124" w="134" h="122" oX="53" oY="3" oW="220" oH="150"/>
+    <sprite n="purplestinkcloud0001" x="574" y="90" w="65" h="54" oX="23" oY="11" oW="111" oH="66"/>
+    <sprite n="purplestinkcloud0002" x="427" y="1" w="67" h="56" oX="21" oY="9" oW="111" oH="66"/>
+    <sprite n="purplestinkcloud0003" x="495" y="1" w="69" h="56" oX="17" oY="10" oW="111" oH="66"/>
+    <sprite n="purplestinkcloud0004" x="570" y="192" w="69" h="54" oX="14" oY="11" oW="111" oH="66"/>
+    <sprite n="purplestinkcloud0005" x="427" y="58" w="77" h="54" oX="7" oY="12" oW="111" oH="66"/>
+    <sprite n="purplestinkcloud0006" x="484" y="196" w="85" h="56" oX="2" oY="10" oW="111" oH="66"/>
+    <sprite n="purplestinkcloud0007" x="396" y="196" w="87" h="58" oX="0" oY="7" oW="111" oH="66"/>
+    <sprite n="slugwin_fx0001" x="505" y="58" w="28" h="61" oX="33" oY="8" oW="102" oH="77"/>
+    <sprite n="slugwin_fx0002" x="495" y="120" w="78" h="71" oX="9" oY="1" oW="102" oH="77"/>
+    <sprite n="slugwin_fx0003" x="396" y="124" w="98" h="71" oX="0" oY="2" oW="102" oH="77"/>
+    <sprite n="slugwin_fx0004" x="396" y="124" w="98" h="71" oX="0" oY="2" oW="102" oH="77"/>
+</TextureAtlas>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:b5a1002b0b7aa9ec205aae6096e204a3$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="consumables.png" width="1131" height="1021">
+    <sprite n="bushbug_pet0001" x="682" y="980" w="66" h="32" oX="17" oY="58" oW="110" oH="90"/>
+    <sprite n="bushbug_pet0002" x="1016" y="587" w="68" h="48" oX="16" oY="40" oW="110" oH="90"/>
+    <sprite n="bushbug_pet0003" x="677" y="681" w="70" h="80" oX="16" oY="8" oW="110" oH="90"/>
+    <sprite n="bushbug_pet0004" x="669" y="604" w="70" h="76" oX="16" oY="12" oW="110" oH="90"/>
+    <sprite n="bushbug_pet0005" x="446" y="577" w="94" h="76" oX="3" oY="13" oW="110" oH="90"/>
+    <sprite n="bushbug_pet0006" x="970" y="675" w="68" h="70" oX="17" oY="18" oW="110" oH="90"/>
+    <sprite n="bushbug_pet0007" x="924" y="746" w="76" h="80" oX="12" oY="8" oW="110" oH="90"/>
+    <sprite n="bushbug_pet0008" x="602" y="895" w="80" h="72" oX="13" oY="16" oW="110" oH="90"/>
+    <sprite n="bushbug_pet0009" x="651" y="807" w="76" h="76" oX="17" oY="11" oW="110" oH="90"/>
+    <sprite n="bushbug_pet0010" x="436" y="498" w="82" h="78" oX="12" oY="9" oW="110" oH="90"/>
+    <sprite n="bushbug_pet0011" x="683" y="891" w="76" h="88" oX="15" oY="0" oW="110" oH="90"/>
+    <sprite n="bushbug_pet0012" x="1001" y="746" w="76" h="88" oX="13" oY="0" oW="110" oH="90"/>
+    <sprite n="coinchest0001" x="728" y="824" w="82" h="66" oX="6" oY="7" oW="100" oH="100"/>
+    <sprite n="coinchest0002" x="436" y="894" w="82" h="64" oX="6" oY="9" oW="100" oH="100"/>
+    <sprite n="coinchest0003" x="519" y="895" w="82" h="62" oX="5" oY="12" oW="100" oH="100"/>
+    <sprite n="coinchest0004" x="442" y="959" w="78" h="60" oX="9" oY="14" oW="100" oH="100"/>
+    <sprite n="coinchest0005" x="1000" y="942" w="72" h="60" oX="14" oY="14" oW="100" oH="100"/>
+    <sprite n="coinchest0006" x="521" y="958" w="76" h="62" oX="11" oY="12" oW="100" oH="100"/>
+    <sprite n="coinchest0007" x="892" y="827" w="80" h="64" oX="8" oY="9" oW="100" oH="100"/>
+    <sprite n="coinchest0008" x="811" y="824" w="80" h="66" oX="8" oY="7" oW="100" oH="100"/>
+    <sprite n="confetti0001" x="108" y="954" w="45" h="56" oX="72" oY="71" oW="207" oH="174"/>
+    <sprite n="confetti0002" x="1" y="801" w="157" h="152" oX="6" oY="22" oW="207" oH="174"/>
+    <sprite n="confetti0003" x="793" y="1" w="167" h="150" oX="1" oY="1" oW="207" oH="174"/>
+    <sprite n="confetti0004" x="437" y="1" w="181" h="172" oX="0" oY="0" oW="207" oH="174"/>
+    <sprite n="confetti0005" x="619" y="1" w="173" h="150" oX="7" oY="4" oW="207" oH="174"/>
+    <sprite n="confetti0006" x="1" y="632" w="163" h="168" oX="24" oY="6" oW="207" oH="174"/>
+    <sprite n="confetti0007" x="967" y="147" w="163" h="86" oX="29" oY="88" oW="207" oH="174"/>
+    <sprite n="confetti0008" x="234" y="216" w="173" h="92" oX="27" oY="77" oW="207" oH="174"/>
+    <sprite n="confetti0009" x="437" y="174" w="179" h="96" oX="28" oY="62" oW="207" oH="174"/>
+    <sprite n="confetti0010" x="286" y="768" w="143" h="96" oX="64" oY="71" oW="207" oH="174"/>
+    <sprite n="confetti0011" x="286" y="865" w="149" h="94" oX="58" oY="80" oW="207" oH="174"/>
+    <sprite n="fireworks0001" x="1" y="954" w="106" h="66" oX="55" oY="145" oW="308" oH="258"/>
+    <sprite n="fireworks0002" x="927" y="382" w="138" h="74" oX="39" oY="132" oW="308" oH="258"/>
+    <sprite n="fireworks0003" x="281" y="577" w="164" h="74" oX="27" oY="132" oW="308" oH="258"/>
+    <sprite n="fireworks0004" x="619" y="152" w="204" h="102" oX="21" oY="128" oW="308" oH="258"/>
+    <sprite n="fireworks0005" x="1" y="465" w="200" h="166" oX="12" oY="89" oW="308" oH="258"/>
+    <sprite n="fireworks0006" x="234" y="1" w="202" h="214" oX="23" oY="40" oW="308" oH="258"/>
+    <sprite n="fireworks0007" x="1" y="1" w="232" h="232" oX="20" oY="20" oW="308" oH="258"/>
+    <sprite n="fireworks0008" x="1" y="234" w="230" h="230" oX="21" oY="21" oW="308" oH="258"/>
+    <sprite n="lobster_nocoin0001" x="598" y="968" w="83" h="50" oX="1" oY="3" oW="85" oH="70"/>
+    <sprite n="lobster_nocoin0002" x="556" y="759" w="83" h="50" oX="1" oY="3" oW="85" oH="70"/>
+    <sprite n="lobster_nocoin0003" x="1039" y="636" w="71" h="50" oX="8" oY="3" oW="85" oH="70"/>
+    <sprite n="lobster_nocoin0004" x="1039" y="687" w="75" h="50" oX="6" oY="3" oW="85" oH="70"/>
+    <sprite n="mimicpet_jump0001" x="1066" y="382" w="64" h="120" oX="14" oY="10" oW="100" oH="130"/>
+    <sprite n="mimicpet_jump0002" x="519" y="393" w="62" h="118" oX="15" oY="11" oW="100" oH="130"/>
+    <sprite n="mimicpet_jump0003" x="560" y="810" w="90" h="84" oX="0" oY="38" oW="100" oH="130"/>
+    <sprite n="mimicpet_jump0004" x="748" y="735" w="90" h="88" oX="0" oY="34" oW="100" oH="130"/>
+    <sprite n="mimicpet_jump0005" x="436" y="393" w="82" h="104" oX="1" oY="18" oW="100" oH="130"/>
+    <sprite n="mimicpet_walk0001" x="821" y="891" w="60" h="102" oX="13" oY="18" oW="100" oH="130"/>
+    <sprite n="mimicpet_walk0002" x="1000" y="835" w="58" h="106" oX="15" oY="14" oW="100" oH="130"/>
+    <sprite n="mimicpet_walk0003" x="941" y="892" w="58" h="106" oX="15" oY="14" oW="100" oH="130"/>
+    <sprite n="mimicpet_walk0004" x="882" y="892" w="58" h="106" oX="15" oY="14" oW="100" oH="130"/>
+    <sprite n="mimicpet_walk0005" x="760" y="891" w="60" h="102" oX="13" oY="18" oW="100" oH="130"/>
+    <sprite n="mimicpet_walk0006" x="1059" y="835" w="58" h="104" oX="15" oY="15" oW="100" oH="130"/>
+    <sprite n="mimicpet_walk0007" x="708" y="484" w="58" h="106" oX="15" oY="13" oW="100" oH="130"/>
+    <sprite n="mimicpet_walk0008" x="708" y="377" w="58" h="106" oX="15" oY="14" oW="100" oH="130"/>
+    <sprite n="ninjasmoke0001" x="839" y="746" w="84" h="73" oX="56" oY="100" oW="192" oH="187"/>
+    <sprite n="ninjasmoke0002" x="961" y="1" w="164" h="145" oX="14" oY="42" oW="192" oH="187"/>
+    <sprite n="ninjasmoke0003" x="165" y="632" w="102" h="185" oX="39" oY="0" oW="192" oH="187"/>
+    <sprite n="ninjasmoke0004" x="202" y="465" w="78" h="155" oX="49" oY="19" oW="192" oH="187"/>
+    <sprite n="ninjasmoke0005" x="159" y="818" w="126" h="171" oX="22" oY="3" oW="192" oH="187"/>
+    <sprite n="ninjasmoke0006" x="824" y="152" w="142" h="161" oX="17" oY="14" oW="192" oH="187"/>
+    <sprite n="ninjasmoke0007" x="967" y="234" w="154" h="147" oX="17" oY="33" oW="192" oH="187"/>
+    <sprite n="ninjasmoke0008" x="281" y="445" w="154" h="131" oX="17" oY="52" oW="192" oH="187"/>
+    <sprite n="ninjasmoke0009" x="232" y="309" w="154" h="135" oX="17" oY="49" oW="192" oH="187"/>
+    <sprite n="ninjasmoke0010" x="268" y="652" w="154" h="115" oX="17" oY="46" oW="192" oH="187"/>
+    <sprite n="shot_burpybig0001" x="617" y="316" w="155" h="60"/>
+    <sprite n="shot_burpybig0002" x="387" y="332" w="155" h="60"/>
+    <sprite n="shot_burpybig0003" x="408" y="271" w="155" h="60"/>
+    <sprite n="shot_burpybig0004" x="773" y="375" w="153" h="60" oX="2" oY="0" oW="155" oH="60"/>
+    <sprite n="shot_burpybig0005" x="773" y="314" w="153" h="60" oX="2" oY="0" oW="155" oH="60"/>
+    <sprite n="shot_burpybig0006" x="617" y="255" w="155" h="60"/>
+    <sprite n="shot_burpybig0007" x="286" y="960" w="155" h="60"/>
+    <sprite n="shot_frostbig0001" x="430" y="734" w="125" h="79" oX="8" oY="3" oW="137" oH="85"/>
+    <sprite n="shot_frostbig0002" x="423" y="654" w="125" h="79" oX="8" oY="5" oW="137" oH="85"/>
+    <sprite n="shot_frostbig0003" x="436" y="814" w="123" h="79" oX="11" oY="6" oW="137" oH="85"/>
+    <sprite n="shot_frostbig0004" x="582" y="455" w="125" h="77" oX="10" oY="8" oW="137" oH="85"/>
+    <sprite n="shot_frostbig0005" x="549" y="604" w="119" h="79" oX="15" oY="6" oW="137" oH="85"/>
+    <sprite n="shot_frostbig0006" x="767" y="507" w="123" h="77" oX="11" oY="5" oW="137" oH="85"/>
+    <sprite n="shot_frostbig0007" x="582" y="377" w="125" h="77" oX="9" oY="5" oW="137" oH="85"/>
+    <sprite n="shot_frostbig0008" x="890" y="597" w="121" h="77" oX="13" oY="5" oW="137" oH="85"/>
+    <sprite n="shot_tazerbig0001" x="556" y="684" w="120" h="74" oX="9" oY="2" oW="134" oH="80"/>
+    <sprite n="shot_tazerbig0002" x="748" y="658" w="110" h="76" oX="19" oY="0" oW="134" oH="80"/>
+    <sprite n="shot_tazerbig0003" x="859" y="675" w="110" h="70" oX="19" oY="5" oW="134" oH="80"/>
+    <sprite n="shot_tazerbig0004" x="582" y="533" w="124" h="70" oX="6" oY="5" oW="134" oH="80"/>
+    <sprite n="shot_tazerbig0005" x="767" y="436" w="130" h="70" oX="0" oY="6" oW="134" oH="80"/>
+    <sprite n="shot_tazerbig0006" x="891" y="528" w="124" h="68" oX="5" oY="7" oW="134" oH="80"/>
+    <sprite n="shot_tazerbig0007" x="898" y="457" w="128" h="70" oX="1" oY="6" oW="134" oH="80"/>
+    <sprite n="shot_tazerbig0008" x="767" y="585" w="122" h="72" oX="7" oY="4" oW="134" oH="80"/>
+    <sprite n="wasp_nocoin0001" x="683" y="762" w="64" h="44" oX="28" oY="32" oW="100" oH="100"/>
+    <sprite n="wasp_nocoin0002" x="1016" y="528" w="60" h="58" oX="28" oY="18" oW="100" oH="100"/>
+    <sprite n="wasp_nocoin0003" x="564" y="271" w="52" h="62" oX="29" oY="14" oW="100" oH="100"/>
+    <sprite n="wasp_nocoin0004" x="564" y="271" w="52" h="62" oX="29" oY="14" oW="100" oH="100"/>
+    <sprite n="wasp_nocoin0005" x="519" y="512" w="62" h="54" oX="28" oY="22" oW="100" oH="100"/>
+    <sprite n="wasp_nocoin0006" x="683" y="762" w="64" h="44" oX="28" oY="32" oW="100" oH="100"/>
+</TextureAtlas>

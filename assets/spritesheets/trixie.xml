@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:b3e7a4265bc6b066af14069ee0801ec1$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="trixie.png" width="1922" height="153">
+    <sprite n="trixie0001" x="1430" y="74" w="64" h="72" oX="34" oY="16" oW="130" oH="90"/>
+    <sprite n="trixie0002" x="1391" y="1" w="66" h="72" oX="33" oY="16" oW="130" oH="90"/>
+    <sprite n="trixie0003" x="1363" y="74" w="66" h="72" oX="34" oY="16" oW="130" oH="90"/>
+    <sprite n="trixie0004" x="1294" y="74" w="68" h="72" oX="33" oY="16" oW="130" oH="90"/>
+    <sprite n="trixie0005" x="1024" y="80" w="70" h="72" oX="31" oY="16" oW="130" oH="90"/>
+    <sprite n="trixie0006" x="1255" y="1" w="68" h="72" oX="32" oY="16" oW="130" oH="90"/>
+    <sprite n="trixie0007" x="1225" y="74" w="68" h="72" oX="32" oY="16" oW="130" oH="90"/>
+    <sprite n="trixie0008" x="1324" y="1" w="66" h="72" oX="33" oY="16" oW="130" oH="90"/>
+    <sprite n="trixie0009" x="1739" y="72" w="62" h="70" oX="37" oY="18" oW="130" oH="90"/>
+    <sprite n="trixie0010" x="1694" y="1" w="62" h="70" oX="38" oY="18" oW="130" oH="90"/>
+    <sprite n="trixie0011" x="1495" y="74" w="60" h="72" oX="42" oY="17" oW="130" oH="90"/>
+    <sprite n="trixie0012" x="1095" y="78" w="60" h="74" oX="41" oY="16" oW="130" oH="90"/>
+    <sprite n="trixie0013" x="1615" y="74" w="58" h="72" oX="42" oY="17" oW="130" oH="90"/>
+    <sprite n="trixie0014" x="1458" y="1" w="60" h="72" oX="39" oY="17" oW="130" oH="90"/>
+    <sprite n="trixie0015" x="1186" y="1" w="68" h="72" oX="34" oY="16" oW="130" oH="90"/>
+    <sprite n="trixie0016" x="886" y="82" w="66" h="70" oX="31" oY="18" oW="130" oH="90"/>
+    <sprite n="trixie0017" x="1060" y="1" w="66" h="76" oX="31" oY="12" oW="130" oH="90"/>
+    <sprite n="trixie0018" x="843" y="1" w="76" h="80" oX="27" oY="5" oW="130" oH="90"/>
+    <sprite n="trixie0019" x="275" y="1" w="76" h="82" oX="27" oY="4" oW="130" oH="90"/>
+    <sprite n="trixie0020" x="137" y="1" w="76" h="84" oX="26" oY="2" oW="130" oH="90"/>
+    <sprite n="trixie0021" x="766" y="1" w="76" h="80" oX="26" oY="4" oW="130" oH="90"/>
+    <sprite n="trixie0022" x="920" y="1" w="78" h="78" oX="25" oY="5" oW="130" oH="90"/>
+    <sprite n="trixie0023" x="1674" y="74" w="64" h="70" oX="30" oY="18" oW="130" oH="90"/>
+    <sprite n="trixie0024" x="819" y="82" w="66" h="70" oX="31" oY="18" oW="130" oH="90"/>
+    <sprite n="trixie0025" x="750" y="82" w="68" h="70" oX="34" oY="18" oW="130" oH="90"/>
+    <sprite n="trixie0026" x="689" y="1" w="76" h="80" oX="18" oY="8" oW="130" oH="90"/>
+    <sprite n="trixie0027" x="612" y="1" w="76" h="80" oX="18" oY="8" oW="130" oH="90"/>
+    <sprite n="trixie0028" x="681" y="82" w="68" h="70" oX="34" oY="18" oW="130" oH="90"/>
+    <sprite n="trixie0029" x="612" y="82" w="68" h="70" oX="30" oY="19" oW="130" oH="90"/>
+    <sprite n="trixie0030" x="275" y="84" w="72" h="68" oX="34" oY="20" oW="130" oH="90"/>
+    <sprite n="trixie0031" x="137" y="86" w="76" h="66" oX="32" oY="22" oW="130" oH="90"/>
+    <sprite n="trixie0032" x="417" y="84" w="64" h="68" oX="31" oY="20" oW="130" oH="90"/>
+    <sprite n="trixie0033" x="543" y="84" w="50" h="68" oX="33" oY="20" oW="130" oH="90"/>
+    <sprite n="trixie0034" x="348" y="84" w="68" h="68" oX="34" oY="20" oW="130" oH="90"/>
+    <sprite n="trixie0035" x="1430" y="74" w="64" h="72" oX="34" oY="16" oW="130" oH="90"/>
+    <sprite n="trixie0036" x="953" y="80" w="70" h="72" oX="38" oY="17" oW="130" oH="90"/>
+    <sprite n="trixie0037" x="1637" y="1" w="56" h="72" oX="33" oY="17" oW="130" oH="90"/>
+    <sprite n="trixie0038" x="1156" y="76" w="68" h="72" oX="10" oY="17" oW="130" oH="90"/>
+    <sprite n="trixie0039" x="1" y="1" w="74" h="86" oX="24" oY="0" oW="130" oH="90"/>
+    <sprite n="trixie0040" x="352" y="1" w="70" h="82" oX="27" oY="2" oW="130" oH="90"/>
+    <sprite n="trixie0041" x="1863" y="72" w="58" h="70" oX="31" oY="18" oW="130" oH="90"/>
+    <sprite n="trixie0042" x="482" y="84" w="60" h="68" oX="32" oY="20" oW="130" oH="90"/>
+    <sprite n="trixie0043" x="214" y="86" w="60" h="66" oX="32" oY="22" oW="130" oH="90"/>
+    <sprite n="trixie0044" x="1818" y="1" w="58" h="70" oX="38" oY="18" oW="130" oH="90"/>
+    <sprite n="trixie0045" x="999" y="1" w="60" h="78" oX="37" oY="11" oW="130" oH="90"/>
+    <sprite n="trixie0046" x="76" y="1" w="60" h="86" oX="31" oY="4" oW="130" oH="90"/>
+    <sprite n="trixie0047" x="214" y="1" w="60" h="84" oX="32" oY="6" oW="130" oH="90"/>
+    <sprite n="trixie0048" x="549" y="1" w="62" h="82" oX="31" oY="8" oW="130" oH="90"/>
+    <sprite n="trixie0049" x="486" y="1" w="62" h="82" oX="31" oY="8" oW="130" oH="90"/>
+    <sprite n="trixie0050" x="423" y="1" w="62" h="82" oX="31" oY="8" oW="130" oH="90"/>
+    <sprite n="trixie0051" x="423" y="1" w="62" h="82" oX="31" oY="8" oW="130" oH="90"/>
+    <sprite n="trixie_recoil0009" x="1802" y="72" w="60" h="70" oX="38" oY="18" oW="130" oH="90"/>
+    <sprite n="trixie_recoil0010" x="1757" y="1" w="60" h="70" oX="39" oY="18" oW="130" oH="90"/>
+    <sprite n="trixie_recoil0011" x="1578" y="1" w="58" h="72" oX="42" oY="17" oW="130" oH="90"/>
+    <sprite n="trixie_recoil0012" x="1127" y="1" w="58" h="74" oX="42" oY="16" oW="130" oH="90"/>
+    <sprite n="trixie_recoil0013" x="1556" y="74" w="58" h="72" oX="41" oY="17" oW="130" oH="90"/>
+    <sprite n="trixie_recoil0014" x="1519" y="1" w="58" h="72" oX="39" oY="17" oW="130" oH="90"/>
+</TextureAtlas>

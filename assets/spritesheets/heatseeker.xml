@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:c0493496021d5f82ea72dbca8ef3ffbe$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="heatseeker.png" width="933" height="146">
+    <sprite n="heatseekerBig" x="598" y="1" w="55" h="100" oX="7" oY="0" oW="75" oH="100"/>
+    <sprite n="heatseekerDiagram" x="1" y="1" w="432" h="144" oX="233" oY="289" oW="750" oH="500"/>
+    <sprite n="heatseekerIcon" x="654" y="1" w="115" h="98"/>
+    <sprite n="heatseekerPower" x="434" y="1" w="163" h="127" oX="4" oY="0" oW="191" oH="127"/>
+    <sprite n="shot_phosporo0001" x="884" y="79" w="34" h="34" oX="2" oY="4" oW="40" oH="40"/>
+    <sprite n="shot_phosporo0002" x="894" y="40" w="38" h="38" oX="0" oY="2" oW="40" oH="40"/>
+    <sprite n="shot_phosporo0003" x="855" y="40" w="38" h="38" oX="1" oY="2" oW="40" oH="40"/>
+    <sprite n="shot_phosporo0004" x="652" y="102" w="40" h="40"/>
+    <sprite n="shot_phosporo0005" x="894" y="1" w="38" h="38" oX="1" oY="2" oW="40" oH="40"/>
+    <sprite n="shot_phosporo0006" x="855" y="1" w="38" h="38" oX="0" oY="2" oW="40" oH="40"/>
+    <sprite n="slug_phosporo0001" x="857" y="79" w="26" h="45" oX="7" oY="7" oW="48" oH="53"/>
+    <sprite n="slug_phosporo0002" x="830" y="95" w="26" h="45" oX="8" oY="7" oW="48" oH="53"/>
+    <sprite n="slug_phosporo0003" x="803" y="97" w="26" h="45" oX="8" oY="7" oW="48" oH="53"/>
+    <sprite n="slug_phosporo0004" x="693" y="100" w="28" h="45" oX="9" oY="7" oW="48" oH="53"/>
+    <sprite n="slug_phosporo0005" x="776" y="99" w="26" h="45" oX="9" oY="7" oW="48" oH="53"/>
+    <sprite n="slug_phosporo0006" x="830" y="49" w="24" h="45" oX="8" oY="7" oW="48" oH="53"/>
+    <sprite n="slug_phosporo0007" x="625" y="102" w="26" h="43" oX="6" oY="9" oW="48" oH="53"/>
+    <sprite n="slug_phosporo0008" x="598" y="102" w="26" h="43" oX="6" oY="9" oW="48" oH="53"/>
+    <sprite n="slug_phosporo0009" x="749" y="100" w="26" h="45" oX="7" oY="7" oW="48" oH="53"/>
+    <sprite n="slug_phosporo0010" x="828" y="1" w="26" h="47" oX="6" oY="4" oW="48" oH="53"/>
+    <sprite n="slug_phosporo0011" x="801" y="49" w="28" h="47" oX="7" oY="3" oW="48" oH="53"/>
+    <sprite n="slug_phosporo0012" x="770" y="51" w="30" h="47" oX="6" oY="3" oW="48" oH="53"/>
+    <sprite n="slug_phosporo0013" x="799" y="1" w="28" h="47" oX="7" oY="3" oW="48" oH="53"/>
+    <sprite n="slug_phosporo0014" x="770" y="1" w="28" h="49" oX="7" oY="1" oW="48" oH="53"/>
+    <sprite n="slug_phosporo0015" x="722" y="100" w="26" h="45" oX="8" oY="6" oW="48" oH="53"/>
+</TextureAtlas>

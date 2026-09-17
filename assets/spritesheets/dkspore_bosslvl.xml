@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:0f34a69b7eaa13d05df2fcbe8617cf6e$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="dkspore_bosslvl.png" width="2045" height="1024">
+    <sprite n="bomb0001" x="2020" y="1" w="15" h="40" oX="74" oY="43" oW="165" oH="138"/>
+    <sprite n="bomb0002" x="285" y="947" w="31" h="40" oX="67" oY="47" oW="165" oH="138"/>
+    <sprite n="bomb0003" x="883" y="531" w="41" h="42" oX="61" oY="46" oW="165" oH="138"/>
+    <sprite n="bomb0004" x="1943" y="752" w="85" h="78" oX="36" oY="25" oW="165" oH="138"/>
+    <sprite n="bomb0005" x="1637" y="543" w="105" h="94" oX="26" oY="18" oW="165" oH="138"/>
+    <sprite n="bomb0006" x="1430" y="633" w="133" h="118" oX="12" oY="6" oW="165" oH="138"/>
+    <sprite n="bomb0007" x="808" y="667" w="153" h="138" oX="4" oY="0" oW="165" oH="138"/>
+    <sprite n="bomb0008" x="1737" y="398" w="165" h="136" oX="0" oY="2" oW="165" oH="138"/>
+    <sprite n="bomb0009" x="1737" y="398" w="165" h="136" oX="0" oY="2" oW="165" oH="138"/>
+    <sprite n="bomb0010" x="802" y="806" w="153" h="124" oX="0" oY="14" oW="165" oH="138"/>
+    <sprite n="bomb0011" x="962" y="667" w="153" h="130" oX="0" oY="8" oW="165" oH="138"/>
+    <sprite n="bomb0012" x="1296" y="665" w="133" h="126" oX="15" oY="4" oW="165" oH="138"/>
+    <sprite n="bossdoor_2" x="1934" y="1" w="85" h="139"/>
+    <sprite n="bridge" x="622" y="616" w="528" h="50"/>
+    <sprite n="dkspore_boss0001" x="1886" y="560" w="122" h="84" oX="41" oY="18" oW="190" oH="108"/>
+    <sprite n="dkspore_boss0002" x="1416" y="886" w="124" h="82" oX="40" oY="20" oW="190" oH="108"/>
+    <sprite n="dkspore_boss0003" x="1289" y="879" w="126" h="82" oX="38" oY="20" oW="190" oH="108"/>
+    <sprite n="dkspore_boss0004" x="1816" y="847" w="126" h="82" oX="39" oY="20" oW="190" oH="108"/>
+    <sprite n="dkspore_boss0005" x="1566" y="816" w="124" h="82" oX="40" oY="20" oW="190" oH="108"/>
+    <sprite n="dkspore_boss0006" x="1791" y="930" w="124" h="84" oX="40" oY="18" oW="190" oH="108"/>
+    <sprite n="dkspore_boss0007" x="1903" y="475" w="122" h="84" oX="41" oY="18" oW="190" oH="108"/>
+    <sprite n="dkspore_boss0008" x="1919" y="299" w="122" h="84" oX="41" oY="18" oW="190" oH="108"/>
+    <sprite n="dkspore_boss0009" x="1820" y="671" w="122" h="84" oX="41" oY="18" oW="190" oH="108"/>
+    <sprite n="dkspore_boss0010" x="1541" y="899" w="124" h="86" oX="39" oY="16" oW="190" oH="108"/>
+    <sprite n="dkspore_boss0011" x="1666" y="900" w="124" h="88" oX="37" oY="14" oW="190" oH="108"/>
+    <sprite n="dkspore_boss0012" x="896" y="931" w="124" h="92" oX="35" oY="10" oW="190" oH="108"/>
+    <sprite n="dkspore_boss0013" x="1296" y="792" w="130" h="86" oX="38" oY="16" oW="190" oH="108"/>
+    <sprite n="dkspore_boss0014" x="1743" y="535" w="142" h="82" oX="41" oY="20" oW="190" oH="108"/>
+    <sprite n="dkspore_boss0015" x="1361" y="552" w="148" h="80" oX="42" oY="22" oW="190" oH="108"/>
+    <sprite n="dkspore_boss0016" x="1174" y="584" w="148" h="80" oX="42" oY="22" oW="190" oH="108"/>
+    <sprite n="dkspore_boss0017" x="622" y="913" w="148" h="80" oX="42" oY="22" oW="190" oH="108"/>
+    <sprite n="dkspore_boss0018" x="758" y="531" w="124" h="84" oX="41" oY="18" oW="190" oH="108"/>
+    <sprite n="dkspore_boss0019" x="158" y="947" w="126" h="76" oX="41" oY="26" oW="190" oH="108"/>
+    <sprite n="dkspore_boss0020" x="1160" y="814" w="128" h="74" oX="40" oY="28" oW="190" oH="108"/>
+    <sprite n="dkspore_boss0021" x="1919" y="198" w="122" h="100" oX="41" oY="1" oW="190" oH="108"/>
+    <sprite n="dkspore_boss0022" x="771" y="931" w="124" h="92" oX="36" oY="11" oW="190" oH="108"/>
+    <sprite n="dkspore_boss0023" x="1430" y="752" w="134" h="74" oX="34" oY="28" oW="190" oH="108"/>
+    <sprite n="dkspore_boss0024" x="1693" y="671" w="126" h="82" oX="39" oY="20" oW="190" oH="108"/>
+    <sprite n="dkspore_boss0025" x="1564" y="638" w="128" h="86" oX="40" oY="16" oW="190" oH="108"/>
+    <sprite n="dkspore_boss0026" x="1691" y="811" w="124" h="88" oX="34" oY="14" oW="190" oH="108"/>
+    <sprite n="dkspore_boss0027" x="1905" y="384" w="124" h="90" oX="37" oY="12" oW="190" oH="108"/>
+    <sprite n="dkspore_boss0028" x="1816" y="756" w="124" h="90" oX="37" oY="12" oW="190" oH="108"/>
+    <sprite n="dkspore_boss0029" x="1146" y="889" w="124" h="90" oX="37" oY="12" oW="190" oH="108"/>
+    <sprite n="dkspore_boss0030" x="1021" y="918" w="124" h="90" oX="37" oY="12" oW="190" oH="108"/>
+    <sprite n="dkspore_boss0031" x="1565" y="725" w="124" h="90" oX="37" oY="12" oW="190" oH="108"/>
+    <sprite n="dkspore_boss0032" x="1816" y="756" w="124" h="90" oX="37" oY="12" oW="190" oH="108"/>
+    <sprite n="pylon1" x="1" y="742" w="156" h="279" oX="27" oY="16" oW="206" oH="329"/>
+    <sprite n="pylon10" x="336" y="1" w="290" h="580" oX="6" oY="6" oW="304" oH="598"/>
+    <sprite n="pylon11" x="1" y="1" w="334" h="740" oX="2" oY="7" oW="346" oH="750"/>
+    <sprite n="pylon2" x="158" y="742" w="162" h="204" oX="3" oY="20" oW="174" oH="238"/>
+    <sprite n="pylon3" x="1174" y="1" w="186" h="582" oX="12" oY="6" oW="220" oH="596"/>
+    <sprite n="pylon4" x="1721" y="1" w="212" h="190" oX="5" oY="14" oW="220" oH="220"/>
+    <sprite n="pylon5" x="1361" y="1" w="211" h="550" oX="5" oY="11" oW="221" oH="586"/>
+    <sprite n="pylon6" x="1573" y="1" w="147" h="400" oX="13" oY="14" oW="171" oH="422"/>
+    <sprite n="pylon7" x="627" y="1" w="302" h="529" oX="9" oY="11" oW="316" oH="553"/>
+    <sprite n="pylon8" x="930" y="1" w="243" h="614" oX="1" oY="14" oW="271" oH="646"/>
+    <sprite n="pylon9" x="336" y="582" w="285" h="441" oX="8" oY="16" oW="309" oH="471"/>
+    <sprite n="sparkle0001" x="1943" y="645" w="82" h="106" oX="85" oY="10" oW="250" oH="200"/>
+    <sprite n="sparkle0002" x="1271" y="969" w="92" h="54" oX="81" oY="16" oW="250" oH="200"/>
+    <sprite n="sparkle0003" x="1690" y="754" w="102" h="56" oX="78" oY="21" oW="250" oH="200"/>
+    <sprite n="sparkle0004" x="1934" y="141" w="110" h="56" oX="77" oY="26" oW="250" oH="200"/>
+    <sprite n="sparkle0005" x="956" y="859" w="122" h="58" oX="72" oY="32" oW="250" oH="200"/>
+    <sprite n="sparkle0006" x="962" y="798" w="130" h="60" oX="69" oY="37" oW="250" oH="200"/>
+    <sprite n="sparkle0007" x="1427" y="827" w="138" h="58" oX="65" oY="45" oW="250" oH="200"/>
+    <sprite n="sparkle0008" x="1743" y="618" w="140" h="52" oX="70" oY="52" oW="250" oH="200"/>
+    <sprite n="sparkle0009" x="1916" y="930" w="118" h="82" oX="98" oY="18" oW="250" oH="200"/>
+    <sprite n="sparkle0010" x="1510" y="552" w="126" h="80" oX="95" oY="27" oW="250" oH="200"/>
+    <sprite n="sparkle0011" x="627" y="531" w="130" h="84" oX="90" oY="31" oW="250" oH="200"/>
+    <sprite n="stalactite0001" x="1116" y="667" w="43" h="154" oX="63" oY="0" oW="197" oH="158"/>
+    <sprite n="stalactite0002" x="1160" y="665" w="135" h="148" oX="19" oY="10" oW="197" oH="158"/>
+    <sprite n="stalactite0003" x="1573" y="402" w="163" h="140" oX="13" oY="18" oW="197" oH="158"/>
+    <sprite n="stalactite0004" x="622" y="788" w="179" h="124" oX="7" oY="34" oW="197" oH="158"/>
+    <sprite n="stalactite0005" x="1721" y="192" w="197" h="112" oX="0" oY="46" oW="197" oH="158"/>
+    <sprite n="stalactite0006" x="622" y="667" w="185" h="120" oX="0" oY="38" oW="197" oH="158"/>
+    <sprite n="stalactite0007" x="1721" y="305" w="183" h="92" oX="3" oY="36" oW="197" oH="158"/>
+</TextureAtlas>

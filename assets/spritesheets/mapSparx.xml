@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:9ecf0952230554034def579f6d01a678$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="mapSparx.png" width="1067" height="510">
+    <sprite n="entrance" x="752" y="1" w="162" h="120" oX="31" oY="60" oW="750" oH="500"/>
+    <sprite n="entrance_rollover" x="811" y="261" w="58" h="158" oX="56" oY="42" oW="750" oH="500"/>
+    <sprite n="exit" x="752" y="122" w="120" h="138" oX="591" oY="309" oW="750" oH="500"/>
+    <sprite n="exit_rollover" x="752" y="261" w="58" h="158" oX="626" oY="306" oW="750" oH="500"/>
+    <sprite n="level1" x="991" y="350" w="70" h="48" oX="194" oY="125" oW="750" oH="500"/>
+    <sprite n="level10" x="752" y="420" w="84" h="62" oX="570" oY="243" oW="750" oH="500"/>
+    <sprite n="level2" x="915" y="86" w="134" h="156" oX="97" oY="178" oW="750" oH="500"/>
+    <sprite n="level3" x="934" y="406" w="56" h="92" oX="85" oY="342" oW="750" oH="500"/>
+    <sprite n="level4" x="837" y="420" w="96" h="56" oX="129" oY="357" oW="750" oH="500"/>
+    <sprite n="level5" x="915" y="1" w="136" h="84" oX="229" oY="338" oW="750" oH="500"/>
+    <sprite n="level6" x="991" y="399" w="68" h="104" oX="287" oY="245" oW="750" oH="500"/>
+    <sprite n="level7" x="870" y="261" w="100" h="144" oX="323" oY="100" oW="750" oH="500"/>
+    <sprite n="level8" x="971" y="243" w="88" h="106" oX="410" oY="187" oW="750" oH="500"/>
+    <sprite n="level9" x="837" y="477" w="74" h="32" oX="490" oY="268" oW="750" oH="500"/>
+    <sprite n="scorchedsparx_base" x="1" y="1" w="750" h="500"/>
+</TextureAtlas>

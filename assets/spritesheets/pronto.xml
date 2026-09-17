@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:d02ca2a2c6a32d9a2bb2eca9830ded5d$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="pronto.png" width="1369" height="253">
+    <sprite n="pronto0001" x="704" y="139" w="74" h="68" oX="31" oY="20" oW="130" oH="90"/>
+    <sprite n="pronto0002" x="552" y="141" w="76" h="68" oX="33" oY="20" oW="130" oH="90"/>
+    <sprite n="pronto0003" x="929" y="1" w="78" h="64" oX="35" oY="24" oW="130" oH="90"/>
+    <sprite n="pronto0004" x="714" y="70" w="78" h="66" oX="34" oY="22" oW="130" oH="90"/>
+    <sprite n="pronto0005" x="475" y="141" w="76" h="68" oX="29" oY="20" oW="130" oH="90"/>
+    <sprite n="pronto0006" x="793" y="68" w="76" h="66" oX="27" oY="22" oW="130" oH="90"/>
+    <sprite n="pronto0007" x="955" y="66" w="74" h="64" oX="26" oY="24" oW="130" oH="90"/>
+    <sprite n="pronto0008" x="854" y="1" w="74" h="66" oX="28" oY="22" oW="130" oH="90"/>
+    <sprite n="pronto0009" x="779" y="137" w="76" h="66" oX="29" oY="22" oW="130" oH="90"/>
+    <sprite n="pronto0010" x="321" y="1" w="80" h="70" oX="30" oY="20" oW="130" oH="90"/>
+    <sprite n="pronto0011" x="1030" y="66" w="82" h="62" oX="29" oY="25" oW="130" oH="90"/>
+    <sprite n="pronto0012" x="546" y="1" w="80" h="68" oX="29" oY="20" oW="130" oH="90"/>
+    <sprite n="pronto0013" x="325" y="143" w="76" h="70" oX="29" oY="18" oW="130" oH="90"/>
+    <sprite n="pronto0014" x="927" y="133" w="76" h="64" oX="26" oY="24" oW="130" oH="90"/>
+    <sprite n="pronto0015" x="702" y="1" w="74" h="68" oX="26" oY="19" oW="130" oH="90"/>
+    <sprite n="pronto0016" x="1192" y="64" w="78" h="62" oX="19" oY="11" oW="130" oH="90"/>
+    <sprite n="pronto0017" x="1152" y="127" w="78" h="62" oX="18" oY="5" oW="130" oH="90"/>
+    <sprite n="pronto0018" x="1162" y="1" w="78" h="62" oX="18" oY="4" oW="130" oH="90"/>
+    <sprite n="pronto0019" x="1113" y="64" w="78" h="62" oX="18" oY="2" oW="130" oH="90"/>
+    <sprite n="pronto0020" x="1073" y="129" w="78" h="62" oX="18" oY="2" oW="130" oH="90"/>
+    <sprite n="pronto0021" x="321" y="72" w="78" h="70" oX="18" oY="4" oW="130" oH="90"/>
+    <sprite n="pronto0022" x="242" y="76" w="78" h="72" oX="18" oY="4" oW="130" oH="90"/>
+    <sprite n="pronto0023" x="165" y="151" w="76" h="74" oX="24" oY="13" oW="130" oH="90"/>
+    <sprite n="pronto0024" x="1237" y="188" w="76" h="58" oX="22" oY="30" oW="130" oH="90"/>
+    <sprite n="pronto0025" x="927" y="198" w="78" h="54" oX="21" oY="34" oW="130" oH="90"/>
+    <sprite n="pronto0026" x="82" y="1" w="78" h="80" oX="18" oY="8" oW="130" oH="90"/>
+    <sprite n="pronto0027" x="1" y="167" w="82" h="78" oX="13" oY="9" oW="130" oH="90"/>
+    <sprite n="pronto0028" x="402" y="143" w="72" h="70" oX="26" oY="18" oW="130" oH="90"/>
+    <sprite n="pronto0029" x="1294" y="119" w="72" h="58" oX="28" oY="30" oW="130" oH="90"/>
+    <sprite n="pronto0030" x="870" y="68" w="84" h="64" oX="35" oY="24" oW="130" oH="90"/>
+    <sprite n="pronto0031" x="475" y="72" w="88" h="68" oX="38" oY="20" oW="130" oH="90"/>
+    <sprite n="pronto0032" x="246" y="1" w="74" h="72" oX="23" oY="16" oW="130" oH="90"/>
+    <sprite n="pronto0033" x="400" y="72" w="74" h="70" oX="21" oY="17" oW="130" oH="90"/>
+    <sprite n="pronto0034" x="1004" y="131" w="68" h="64" oX="27" oY="24" oW="130" oH="90"/>
+    <sprite n="pronto0035" x="639" y="70" w="74" h="68" oX="31" oY="20" oW="130" oH="90"/>
+    <sprite n="pronto0036" x="1081" y="1" w="80" h="62" oX="34" oY="26" oW="130" oH="90"/>
+    <sprite n="pronto0037" x="1231" y="127" w="62" h="60" oX="29" oY="28" oW="130" oH="90"/>
+    <sprite n="pronto0038" x="629" y="139" w="74" h="68" oX="5" oY="21" oW="130" oH="90"/>
+    <sprite n="pronto0039" x="84" y="82" w="78" h="76" oX="18" oY="8" oW="130" oH="90"/>
+    <sprite n="pronto0040" x="84" y="159" w="80" h="74" oX="16" oY="9" oW="130" oH="90"/>
+    <sprite n="pronto0041" x="627" y="1" w="74" h="68" oX="29" oY="20" oW="130" oH="90"/>
+    <sprite n="pronto0042" x="1294" y="64" w="74" h="54" oX="23" oY="34" oW="130" oH="90"/>
+    <sprite n="pronto0043" x="242" y="149" w="82" h="70" oX="32" oY="17" oW="130" oH="90"/>
+    <sprite n="pronto0044" x="1" y="86" w="82" h="80" oX="24" oY="3" oW="130" oH="90"/>
+    <sprite n="pronto0045" x="163" y="76" w="78" h="74" oX="23" oY="2" oW="130" oH="90"/>
+    <sprite n="pronto0046" x="1" y="1" w="80" h="84" oX="23" oY="2" oW="130" oH="90"/>
+    <sprite n="pronto0047" x="161" y="1" w="84" h="74" oX="26" oY="14" oW="130" oH="90"/>
+    <sprite n="pronto0048" x="1006" y="196" w="78" h="56" oX="25" oY="34" oW="130" oH="90"/>
+    <sprite n="pronto0049" x="1085" y="192" w="74" h="60" oX="28" oY="30" oW="130" oH="90"/>
+    <sprite n="pronto0050" x="1160" y="190" w="76" h="62" oX="28" oY="28" oW="130" oH="90"/>
+    <sprite n="pronto0051" x="777" y="1" w="76" h="66" oX="27" oY="24" oW="130" oH="90"/>
+    <sprite n="pronto_recoil0009" x="856" y="135" w="70" h="66" oX="28" oY="22" oW="130" oH="90"/>
+    <sprite n="pronto_recoil0010" x="402" y="1" w="72" h="70" oX="31" oY="20" oW="130" oH="90"/>
+    <sprite n="pronto_recoil0011" x="1241" y="1" w="76" h="62" oX="28" oY="25" oW="130" oH="90"/>
+    <sprite n="pronto_recoil0012" x="564" y="70" w="74" h="68" oX="28" oY="20" oW="130" oH="90"/>
+    <sprite n="pronto_recoil0013" x="475" y="1" w="70" h="70" oX="28" oY="18" oW="130" oH="90"/>
+    <sprite n="pronto_recoil0014" x="1008" y="1" w="72" h="64" oX="22" oY="24" oW="130" oH="90"/>
+</TextureAtlas>

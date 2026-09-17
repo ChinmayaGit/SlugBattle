@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:cfd5e759a2535193d3dd9f7cbb5f9738$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="yang.png" width="1020" height="241">
+    <sprite n="shadow_cloud" x="946" y="1" w="48" h="43" oX="1" oY="1" oW="50" oH="45"/>
+    <sprite n="slugyang_0001" x="973" y="188" w="26" h="44" oX="12" oY="8" oW="50" oH="52"/>
+    <sprite n="slugyang_0002" x="946" y="188" w="26" h="44" oX="12" oY="8" oW="50" oH="52"/>
+    <sprite n="slugyang_0003" x="919" y="190" w="26" h="44" oX="11" oY="8" oW="50" oH="52"/>
+    <sprite n="slugyang_0004" x="919" y="145" w="26" h="44" oX="11" oY="8" oW="50" oH="52"/>
+    <sprite n="slugyang_0005" x="501" y="196" w="26" h="44" oX="12" oY="8" oW="50" oH="52"/>
+    <sprite n="slugyang_0006" x="995" y="1" w="24" h="46" oX="14" oY="6" oW="50" oH="52"/>
+    <sprite n="slugyang_0007" x="644" y="174" w="26" h="46" oX="13" oY="6" oW="50" oH="52"/>
+    <sprite n="slugyang_0008" x="617" y="174" w="26" h="46" oX="13" oY="6" oW="50" oH="52"/>
+    <sprite n="slugyang_0009" x="921" y="1" w="24" h="46" oX="14" oY="6" oW="50" oH="52"/>
+    <sprite n="slugyang_0010" x="977" y="145" w="30" h="42" oX="11" oY="9" oW="50" oH="52"/>
+    <sprite n="slugyang_0011" x="443" y="196" w="30" h="44" oX="12" oY="5" oW="50" oH="52"/>
+    <sprite n="slugyang_0012" x="946" y="145" w="30" h="42" oX="12" oY="8" oW="50" oH="52"/>
+    <sprite n="slugyang_0013" x="588" y="174" w="28" h="46" oX="12" oY="2" oW="50" oH="52"/>
+    <sprite n="slugyang_0014" x="528" y="174" w="30" h="48" oX="12" oY="0" oW="50" oH="52"/>
+    <sprite n="slugyang_0015" x="559" y="174" w="28" h="46" oX="11" oY="4" oW="50" oH="52"/>
+    <sprite n="slugyang_0016" x="559" y="174" w="28" h="46" oX="11" oY="4" oW="50" oH="52"/>
+    <sprite n="slugyang_0017" x="474" y="196" w="26" h="44" oX="12" oY="8" oW="50" oH="52"/>
+    <sprite n="yangBig" x="387" y="111" w="55" h="100" oX="7" oY="0" oW="75" oH="100"/>
+    <sprite n="yangDiagram" x="1" y="1" w="352" h="144" oX="313" oY="289" oW="750" oH="500"/>
+    <sprite n="yangExplosion1" x="443" y="100" w="81" h="95" oX="56" oY="32" oW="221" oH="183"/>
+    <sprite n="yangExplosion2" x="354" y="1" w="75" h="109" oX="69" oY="25" oW="221" oH="183"/>
+    <sprite n="yangIcon" x="430" y="1" w="115" h="98"/>
+    <sprite n="yangPower" x="1" y="146" w="133" h="77"/>
+    <sprite n="yangfx_0001" x="546" y="1" w="124" h="73" oX="4" oY="2" oW="130" oH="75"/>
+    <sprite n="yangfx_0002" x="773" y="75" w="122" h="73" oX="6" oY="2" oW="130" oH="75"/>
+    <sprite n="yangfx_0003" x="896" y="73" w="120" h="71" oX="7" oY="4" oW="130" oH="75"/>
+    <sprite n="yangfx_0004" x="794" y="1" w="126" h="71" oX="1" oY="3" oW="130" oH="75"/>
+    <sprite n="yangfx_0005" x="794" y="149" w="124" h="71" oX="4" oY="2" oW="130" oH="75"/>
+    <sprite n="yangfx_0006" x="525" y="100" w="124" h="73" oX="5" oY="0" oW="130" oH="75"/>
+    <sprite n="yangfx_0007" x="671" y="149" w="122" h="73" oX="7" oY="0" oW="130" oH="75"/>
+    <sprite n="yangfx_0008" x="135" y="146" w="126" h="75" oX="2" oY="0" oW="130" oH="75"/>
+    <sprite n="yangfx_0009" x="262" y="146" w="124" h="73" oX="4" oY="2" oW="130" oH="75"/>
+    <sprite n="yangfx_0010" x="671" y="1" w="122" h="73" oX="6" oY="2" oW="130" oH="75"/>
+    <sprite n="yangfx_0011" x="650" y="75" w="122" h="73" oX="6" oY="2" oW="130" oH="75"/>
+</TextureAtlas>

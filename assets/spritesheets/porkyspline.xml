@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:228de3c9709e4c7a82667c1da707a816$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="porkyspline.png" width="440" height="249">
+    <sprite n="porkyDiagram" x="1" y="1" w="370" h="146" oX="272" oY="285" oW="750" oH="500"/>
+    <sprite n="porkysplineBig" x="213" y="148" w="69" h="100" oX="6" oY="0" oW="75" oH="100"/>
+    <sprite n="porkysplineIcon" x="1" y="148" w="115" h="98"/>
+    <sprite n="porkysplinePower" x="117" y="148" w="95" h="97"/>
+    <sprite n="slug_spline0001" x="347" y="201" w="32" h="44" oX="4" oY="6" oW="40" oH="50"/>
+    <sprite n="slug_spline0002" x="380" y="203" w="30" h="42" oX="4" oY="8" oW="40" oH="50"/>
+    <sprite n="slug_spline0003" x="384" y="154" w="30" h="48" oX="4" oY="2" oW="40" oH="50"/>
+    <sprite n="slug_spline0004" x="283" y="197" w="30" h="48" oX="4" oY="2" oW="40" oH="50"/>
+    <sprite n="slug_spline0005" x="409" y="52" w="30" h="50" oX="4" oY="0" oW="40" oH="50"/>
+    <sprite n="slug_spline0006" x="409" y="52" w="30" h="50" oX="4" oY="0" oW="40" oH="50"/>
+    <sprite n="slug_spline0007" x="409" y="1" w="30" h="50" oX="4" oY="0" oW="40" oH="50"/>
+    <sprite n="slug_spline0008" x="314" y="199" w="32" h="46" oX="3" oY="4" oW="40" oH="50"/>
+    <sprite n="slug_spline0009" x="351" y="154" w="32" h="46" oX="3" oY="4" oW="40" oH="50"/>
+    <sprite n="slug_spline0010" x="347" y="201" w="32" h="44" oX="4" oY="6" oW="40" oH="50"/>
+    <sprite n="slug_spline0011" x="283" y="148" w="34" h="48" oX="2" oY="2" oW="40" oH="50"/>
+    <sprite n="slug_spline0012" x="318" y="148" w="32" h="50" oX="4" oY="0" oW="40" oH="50"/>
+    <sprite n="slug_spline0013" x="407" y="103" w="32" h="50" oX="4" oY="0" oW="40" oH="50"/>
+    <sprite n="slug_spline0014" x="372" y="52" w="36" h="50" oX="1" oY="0" oW="40" oH="50"/>
+    <sprite n="slug_spline0015" x="372" y="1" w="36" h="50" oX="2" oY="0" oW="40" oH="50"/>
+    <sprite n="slug_spline0016" x="372" y="103" w="34" h="50" oX="3" oY="0" oW="40" oH="50"/>
+    <sprite n="slug_spline0017" x="347" y="201" w="32" h="44" oX="4" oY="6" oW="40" oH="50"/>
+    <sprite n="slugspline_spike" x="411" y="203" w="24" h="15"/>
+</TextureAtlas>

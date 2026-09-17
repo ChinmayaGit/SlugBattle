@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:1a213b7ece24206bd875bd3b0b6fe40f$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="tazerling.png" width="484" height="1010">
+    <sprite n="slug_electric_ball0001" x="1" y="867" w="148" h="142" oX="8" oY="18" oW="160" oH="160"/>
+    <sprite n="slug_electric_ball0002" x="174" y="718" w="150" h="146" oX="6" oY="14" oW="160" oH="160"/>
+    <sprite n="slug_electric_ball0003" x="174" y="569" w="140" h="144" oX="20" oY="16" oW="160" oH="160"/>
+    <sprite n="slug_electric_ball0004" x="347" y="416" w="136" h="150" oX="20" oY="10" oW="160" oH="160"/>
+    <sprite n="slug_electric_fx0001" x="178" y="269" w="176" h="146" oX="21" oY="9" oW="200" oH="160"/>
+    <sprite n="slug_electric_fx0002" x="1" y="569" w="172" h="148" oX="21" oY="6" oW="200" oH="160"/>
+    <sprite n="slug_electric_fx0003" x="174" y="416" w="172" h="152" oX="21" oY="4" oW="200" oH="160"/>
+    <sprite n="slug_electric_fx0004" x="178" y="120" w="176" h="148" oX="18" oY="5" oW="200" oH="160"/>
+    <sprite n="slug_electric_fx20001" x="1" y="269" w="176" h="146" oX="21" oY="9" oW="200" oH="160"/>
+    <sprite n="slug_electric_fx20002" x="1" y="718" w="172" h="148" oX="21" oY="6" oW="200" oH="160"/>
+    <sprite n="slug_electric_fx20003" x="1" y="416" w="172" h="152" oX="21" oY="4" oW="200" oH="160"/>
+    <sprite n="slug_electric_fx20004" x="1" y="120" w="176" h="148" oX="18" oY="5" oW="200" oH="160"/>
+    <sprite n="slug_electric_hop0001" x="449" y="87" w="23" h="41" oX="4" oY="2" oW="35" oH="45"/>
+    <sprite n="slug_electric_hop0002" x="462" y="129" w="21" h="43" oX="6" oY="0" oW="35" oH="45"/>
+    <sprite n="slug_electric_hop0003" x="449" y="1" w="23" h="43" oX="5" oY="0" oW="35" oH="45"/>
+    <sprite n="slug_electric_hop0004" x="449" y="45" w="23" h="41" oX="5" oY="3" oW="35" oH="45"/>
+    <sprite n="slug_electric_hop0005" x="392" y="102" w="23" h="35" oX="4" oY="8" oW="35" oH="45"/>
+    <sprite n="slug_electric_idle0001" x="355" y="120" w="22" h="40" oX="7" oY="0" oW="40" oH="40"/>
+    <sprite n="slug_electric_idle0002" x="447" y="370" w="22" h="38" oX="6" oY="2" oW="40" oH="40"/>
+    <sprite n="slug_electric_idle0003" x="424" y="370" w="22" h="38" oX="6" oY="2" oW="40" oH="40"/>
+    <sprite n="slug_electric_idle0004" x="401" y="370" w="22" h="38" oX="6" oY="2" oW="40" oH="40"/>
+    <sprite n="slug_electric_idle0005" x="439" y="129" w="22" h="40" oX="6" oY="0" oW="40" oH="40"/>
+    <sprite n="slug_electric_idle0006" x="439" y="129" w="22" h="40" oX="6" oY="0" oW="40" oH="40"/>
+    <sprite n="slug_electric_idle0007" x="378" y="370" w="22" h="38" oX="6" oY="2" oW="40" oH="40"/>
+    <sprite n="slug_electric_idle0008" x="355" y="370" w="22" h="38" oX="6" oY="2" oW="40" oH="40"/>
+    <sprite n="slug_electric_idle0009" x="416" y="102" w="22" h="40" oX="7" oY="0" oW="40" oH="40"/>
+    <sprite n="slug_electric_idle0010" x="355" y="120" w="22" h="40" oX="7" oY="0" oW="40" oH="40"/>
+    <sprite n="slug_electric_noball0001" x="150" y="867" w="134" h="142" oX="7" oY="18" oW="160" oH="160"/>
+    <sprite n="slug_electric_noball0002" x="325" y="718" w="142" h="146" oX="11" oY="14" oW="160" oH="160"/>
+    <sprite n="slug_electric_noball0003" x="285" y="865" w="140" h="144" oX="20" oY="16" oW="160" oH="160"/>
+    <sprite n="slug_electric_noball0004" x="347" y="567" w="134" h="150" oX="20" oY="10" oW="160" oH="160"/>
+    <sprite n="tazerlingBig" x="392" y="1" w="56" h="100" oX="24" oY="0" oW="100" oH="100"/>
+    <sprite n="tazerlingDiagram" x="1" y="1" w="390" h="118" oX="274" oY="310" oW="750" oH="500"/>
+    <sprite n="tazerlingIcon" x="355" y="274" w="112" h="95"/>
+    <sprite n="tazerlingPower" x="355" y="173" w="125" h="100"/>
+</TextureAtlas>

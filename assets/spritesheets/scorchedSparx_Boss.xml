@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:3198fde1d83fca143fc5f3e75ca6377f$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="scorchedSparx_Boss.png" width="1959" height="1866">
+    <sprite n="mech_snake0001" x="1521" y="1" w="382" h="282" oX="54" oY="40" oW="440" oH="330"/>
+    <sprite n="mech_snake0002" x="1" y="1548" w="368" h="294" oX="68" oY="31" oW="440" oH="330"/>
+    <sprite n="mech_snake0003" x="1" y="629" w="362" h="300" oX="74" oY="28" oW="440" oH="330"/>
+    <sprite n="mech_snake0004" x="1" y="930" w="352" h="306" oX="83" oY="24" oW="440" oH="330"/>
+    <sprite n="mech_snake0005" x="1" y="1237" w="344" h="310" oX="90" oY="20" oW="440" oH="330"/>
+    <sprite n="mech_snake0006" x="1" y="316" w="358" h="312" oX="77" oY="18" oW="440" oH="330"/>
+    <sprite n="mech_snake0007" x="1" y="1" w="368" h="314" oX="67" oY="15" oW="440" oH="330"/>
+    <sprite n="mech_snake0008" x="370" y="1" w="378" h="302" oX="58" oY="25" oW="440" oH="330"/>
+    <sprite n="mech_snake0009" x="749" y="1" w="386" h="292" oX="50" oY="33" oW="440" oH="330"/>
+    <sprite n="mech_snake0010" x="1076" y="1158" w="316" h="306" oX="121" oY="16" oW="440" oH="330"/>
+    <sprite n="mech_snake0011" x="695" y="866" w="320" h="308" oX="117" oY="14" oW="440" oH="330"/>
+    <sprite n="mech_snake0012" x="749" y="565" w="328" h="300" oX="109" oY="22" oW="440" oH="330"/>
+    <sprite n="mech_snake0013" x="364" y="860" w="330" h="292" oX="107" oY="30" oW="440" oH="330"/>
+    <sprite n="mech_snake0014" x="1571" y="284" w="354" h="228" oX="83" oY="94" oW="440" oH="330"/>
+    <sprite n="mech_snake0015" x="1136" y="284" w="434" h="116" oX="3" oY="206" oW="440" oH="330"/>
+    <sprite n="mech_snake0016" x="1507" y="1609" w="432" h="116" oX="5" oY="206" oW="440" oH="330"/>
+    <sprite n="mech_snake0017" x="1507" y="1492" w="432" h="116" oX="5" oY="206" oW="440" oH="330"/>
+    <sprite n="mech_snake0018" x="665" y="1691" w="432" h="116" oX="5" oY="206" oW="440" oH="330"/>
+    <sprite n="mech_snake0019" x="1491" y="883" w="432" h="116" oX="5" oY="206" oW="440" oH="330"/>
+    <sprite n="mech_snake0020" x="1076" y="1492" w="430" h="124" oX="7" oY="198" oW="440" oH="330"/>
+    <sprite n="mech_snake0021" x="1491" y="720" w="412" h="162" oX="25" oY="160" oW="440" oH="330"/>
+    <sprite n="mech_snake0022" x="1551" y="513" w="402" h="206" oX="35" oY="116" oW="440" oH="330"/>
+    <sprite n="mech_snake0023" x="1098" y="1617" w="392" h="248" oX="45" oY="74" oW="440" oH="330"/>
+    <sprite n="mech_snake0024" x="749" y="294" w="386" h="270" oX="51" oY="52" oW="440" oH="330"/>
+    <sprite n="mech_snake0025" x="364" y="581" w="384" h="278" oX="53" oY="44" oW="440" oH="330"/>
+    <sprite n="mech_snake0026" x="1136" y="1" w="384" h="282" oX="53" oY="40" oW="440" oH="330"/>
+    <sprite n="mech_snake0027" x="354" y="1153" w="320" h="302" oX="117" oY="20" oW="440" oH="330"/>
+    <sprite n="mech_snake0028" x="370" y="1456" w="294" h="310" oX="143" oY="12" oW="440" oH="330"/>
+    <sprite n="mech_snake0029" x="370" y="304" w="358" h="276" oX="79" oY="46" oW="440" oH="330"/>
+    <sprite n="mech_snake0030" x="675" y="1175" w="400" h="258" oX="37" oY="64" oW="440" oH="330"/>
+    <sprite n="mech_snake0031" x="1393" y="1245" w="408" h="246" oX="29" oY="76" oW="440" oH="330"/>
+    <sprite n="mech_snake0032" x="1078" y="642" w="412" h="242" oX="25" oY="80" oW="440" oH="330"/>
+    <sprite n="mech_snake0033" x="1136" y="401" w="414" h="240" oX="23" oY="82" oW="440" oH="330"/>
+    <sprite n="mech_snake0034" x="1407" y="1000" w="410" h="244" oX="27" oY="78" oW="440" oH="330"/>
+    <sprite n="mech_snake0035" x="675" y="1434" w="400" h="256" oX="37" oY="66" oW="440" oH="330"/>
+    <sprite n="mech_snake0036" x="1016" y="885" w="390" h="272" oX="47" oY="50" oW="440" oH="330"/>
+    <sprite n="mechsnake_tail" x="370" y="1767" w="248" h="69" oX="5" oY="4" oW="254" oH="81"/>
+    <sprite n="snakeEye" x="1904" y="1" w="35" h="30"/>
+    <sprite n="warmUpParticle" x="1076" y="1465" w="24" h="26" oX="2" oY="1" oW="30" oH="30"/>
+</TextureAtlas>

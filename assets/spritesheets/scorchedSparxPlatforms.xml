@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:72eecfc85714322d20561433d7facc6d$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="scorchedSparxPlatforms.png" width="1016" height="182">
+    <sprite n="heatedplatform08" x="759" y="155" w="128" h="22"/>
+    <sprite n="heatedplatform10" x="842" y="42" w="160" h="22"/>
+    <sprite n="heatedplatform12" x="369" y="97" w="196" h="22"/>
+    <sprite n="lavaboat" x="170" y="121" w="269" h="55"/>
+    <sprite n="lavaplatform11" x="713" y="68" w="176" h="27"/>
+    <sprite n="lavaplatform6" x="842" y="1" w="100" h="40" oX="3" oY="2" oW="104" oH="42"/>
+    <sprite n="lavaplatform6a" x="440" y="120" w="97" h="47"/>
+    <sprite n="lavaplatform6b" x="890" y="91" w="97" h="22"/>
+    <sprite n="lavaplatform7" x="890" y="65" w="112" h="25"/>
+    <sprite n="platformx10" x="1" y="1" w="168" h="166"/>
+    <sprite n="platformx12" x="566" y="97" w="192" h="84"/>
+    <sprite n="platformx12a" x="170" y="1" w="198" h="119" oX="0" oY="0" oW="198" oH="125"/>
+    <sprite n="platformx14" x="369" y="1" w="214" h="95" oX="0" oY="0" oW="216" oH="95"/>
+    <sprite n="platformx8" x="584" y="1" w="128" h="91"/>
+    <sprite n="platformx8a" x="759" y="96" w="128" h="28"/>
+    <sprite n="platformx8b" x="713" y="1" w="128" h="66"/>
+    <sprite n="teeter" x="759" y="125" w="256" h="29"/>
+</TextureAtlas>

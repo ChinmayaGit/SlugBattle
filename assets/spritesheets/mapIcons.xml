@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:13196c2cc3347fe793399f4988ce41f6$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="mapIcons.png" width="1110" height="1024">
+    <sprite n="SlugMap_base" x="1" y="502" w="750" h="500"/>
+    <sprite n="bludgeon_totem" x="752" y="604" w="87" h="153"/>
+    <sprite n="bubble_totem" x="752" y="122" w="87" h="164"/>
+    <sprite n="burpy_totem" x="752" y="447" w="84" h="156"/>
+    <sprite n="button" x="840" y="690" w="121" h="52"/>
+    <sprite n="clvl_bludgeon_locked" x="1018" y="345" w="80" h="60" oX="69" oY="380" oW="750" oH="500"/>
+    <sprite n="clvl_bludgeon_unlocked" x="1079" y="260" w="30" h="54" oX="70" oY="386" oW="750" oH="500"/>
+    <sprite n="clvl_bubble_locked" x="1012" y="161" w="60" h="118" oX="271" oY="105" oW="750" oH="500"/>
+    <sprite n="clvl_bubble_unlocked" x="1071" y="833" w="30" h="56" oX="271" oY="104" oW="750" oH="500"/>
+    <sprite n="clvl_burpy_locked" x="963" y="325" w="54" h="98" oX="41" oY="46" oW="750" oH="500"/>
+    <sprite n="clvl_burpy_unlocked" x="1057" y="969" w="30" h="54" oX="65" oY="46" oW="750" oH="500"/>
+    <sprite n="clvl_tazerling_locked" x="811" y="758" w="30" h="150" oX="523" oY="271" oW="750" oH="500"/>
+    <sprite n="clvl_tazerling_unlocked" x="1026" y="969" w="30" h="54" oX="523" oY="367" oW="750" oH="500"/>
+    <sprite n="coin" x="840" y="283" w="31" h="30"/>
+    <sprite n="darkperip_active" x="838" y="325" w="124" h="96" oX="379" oY="258" oW="750" oH="500"/>
+    <sprite n="darkperip_locked" x="752" y="919" w="124" h="96" oX="379" oY="258" oW="750" oH="500"/>
+    <sprite n="darkperip_rollover" x="1026" y="902" w="60" h="66" oX="412" oY="256" oW="750" oH="500"/>
+    <sprite n="darkspores" x="971" y="509" w="124" h="94" oX="68" oY="357" oW="750" oH="500"/>
+    <sprite n="darkspores_locked" x="842" y="743" w="124" h="94" oX="68" oY="357" oW="750" oH="500"/>
+    <sprite n="nostar" x="840" y="743" w="1" h="1" oX="0" oY="0" oW="25" oH="25"/>
+    <sprite n="overworld_back" x="1" y="1" w="750" h="500"/>
+    <sprite n="scorched_active" x="840" y="595" w="124" h="94" oX="277" oY="358" oW="750" oH="500"/>
+    <sprite n="scorched_locked" x="838" y="422" w="124" h="94" oX="277" oY="358" oW="750" oH="500"/>
+    <sprite n="scorched_rollover" x="1018" y="280" w="60" h="64" oX="310" oY="356" oW="750" oH="500"/>
+    <sprite n="slugmap_back" x="917" y="1" w="172" h="104" oX="55" oY="95" oW="750" oH="500"/>
+    <sprite n="slugmap_back2" x="752" y="758" w="58" h="160" oX="132" oY="68" oW="750" oH="500"/>
+    <sprite n="slugmap_complete" x="954" y="998" w="24" h="25"/>
+    <sprite n="slugmap_exit" x="752" y="1" w="164" h="120" oX="581" oY="223" oW="750" oH="500"/>
+    <sprite n="slugmap_exit2" x="840" y="122" w="58" h="160" oX="663" oY="203" oW="750" oH="500"/>
+    <sprite n="slugmap_info_2" x="837" y="517" w="133" h="77"/>
+    <sprite n="slugmap_lvl1" x="979" y="988" w="46" h="30" oX="4" oY="171" oW="750" oH="500"/>
+    <sprite n="slugmap_lvl10" x="917" y="106" w="162" h="54" oX="422" oY="219" oW="750" oH="500"/>
+    <sprite n="slugmap_lvl11" x="928" y="915" w="34" h="82" oX="608" oY="294" oW="750" oH="500"/>
+    <sprite n="slugmap_lvl12" x="962" y="699" w="86" h="36" oX="532" oY="268" oW="750" oH="500"/>
+    <sprite n="slugmap_lvl13" x="963" y="424" w="82" h="84" oX="502" oY="180" oW="750" oH="500"/>
+    <sprite n="slugmap_lvl14" x="899" y="274" w="108" h="50" oX="518" oY="158" oW="750" oH="500"/>
+    <sprite n="slugmap_lvl15" x="945" y="838" w="64" h="76" oX="609" oY="181" oW="750" oH="500"/>
+    <sprite n="slugmap_lvl2" x="967" y="736" w="62" h="98" oX="37" oY="203" oW="750" oH="500"/>
+    <sprite n="slugmap_lvl3" x="1046" y="406" w="48" h="46" oX="94" oY="290" oW="750" oH="500"/>
+    <sprite n="slugmap_lvl4" x="1046" y="453" w="46" h="46" oX="124" oY="335" oW="750" oH="500"/>
+    <sprite n="slugmap_lvl5" x="963" y="915" w="62" h="72" oX="162" oY="279" oW="750" oH="500"/>
+    <sprite n="slugmap_lvl6" x="842" y="838" w="102" h="76" oX="221" oY="308" oW="750" oH="500"/>
+    <sprite n="slugmap_lvl7" x="877" y="915" w="50" h="108" oX="311" oY="224" oW="750" oH="500"/>
+    <sprite n="slugmap_lvl8" x="1030" y="766" w="74" h="66" oX="352" oY="160" oW="750" oH="500"/>
+    <sprite n="slugmap_lvl9" x="1073" y="161" w="36" h="98" oX="377" oY="193" oW="750" oH="500"/>
+    <sprite n="star" x="928" y="998" w="25" h="25"/>
+    <sprite n="tazerling_totem" x="752" y="287" w="85" h="159"/>
+    <sprite n="wildspores" x="965" y="604" w="122" h="94" oX="36" oY="158" oW="750" oH="500"/>
+    <sprite n="world1_over" x="1010" y="835" w="60" h="66" oX="67" oY="155" oW="750" oH="500"/>
+    <sprite n="world2_over" x="1049" y="699" w="60" h="66" oX="100" oY="354" oW="750" oH="500"/>
+    <sprite n="worldmapStart" x="899" y="161" w="112" h="112" oX="9" oY="32" oW="750" oH="500"/>
+</TextureAtlas>

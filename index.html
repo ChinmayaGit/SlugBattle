@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>SlugBattle - 2.5D Mini Militia Arena</title>
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <link rel="stylesheet" href="css/game.css">
+</head>
+<body>
+  <div id="game-container">
+    <!-- 2.5D Canvas -->
+    <canvas id="game-canvas"></canvas>
+
+    <!-- Thermal Scanner Infrared Overlay -->
+    <div id="thermal-overlay">
+      <div class="thermal-scanlines"></div>
+    </div>
+
+    <!-- UI Overlay Layer -->
+    <div id="ui-layer">
+      <!-- Top Left: Player Avatar & Gauges -->
+      <div class="hud-top-left">
+        <div class="avatar-frame">
+          <img src="assets/external/logo.jpg" alt="Avatar" class="avatar-img" id="player-avatar">
+        </div>
+        <div class="bars-container">
+          <!-- Health Bar -->
+          <div class="bar-row">
+            <span class="bar-label health-label">HP</span>
+            <div class="bar-bg">
+              <div id="health-fill" class="bar-fill health-fill"></div>
+              <span id="health-text" class="bar-text">100 HP</span>
+            </div>
+          </div>
+          <!-- Jetpack Boost Bar -->
+          <div class="bar-row">
+            <span class="bar-label boost-label">JET</span>
+            <div class="bar-bg">
+              <div id="boost-fill" class="bar-fill boost-fill"></div>
+              <span id="boost-text" class="bar-text">100%</span>
+            </div>
+          </div>
+          <!-- Energy Shield Bar (Hidden when inactive) -->
+          <div class="bar-row" id="shield-row" style="display: none;">
+            <span class="bar-label shield-label">SHLD</span>
+            <div class="bar-bg">
+              <div id="shield-fill" class="bar-fill shield-fill"></div>
+              <span id="shield-text" class="bar-text">100</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Top Center: Match Status & Warning Banner -->
+      <div class="hud-top-center">
+        <div class="match-info-pill">
+          <span class="match-target">🎯 TARGET: 15 KILLS</span>
+          <span id="match-timer" class="match-timer">5:00</span>
+        </div>
+        <!-- Unarmed Notice -->
+        <div id="unarmed-warning" class="unarmed-warning">
+          NO SLUGS LOADED - GRAB SLUGS FROM SKY TO FIRE!
+        </div>
+      </div>
+
+      <!-- Top Right: Radar Minimap & Kill Feed -->
+      <div class="hud-top-right">
+        <div class="quick-controls">
+          <button id="mute-btn" class="icon-btn" title="Toggle Audio (M)">🔊</button>
+        </div>
+        <div class="radar-container">
+          <canvas id="radar-canvas"></canvas>
+          <span class="radar-label">CAVERN RADAR</span>
+        </div>
+        <div id="kill-feed" class="kill-feed"></div>
+      </div>
+
+      <!-- Bottom Left: Controls Quick Reference -->
+      <div class="hud-bottom-left">
+        <div class="hint-row">
+          <span class="key-badge">W / Space</span> <span>Jetpack Thrusters</span>
+        </div>
+        <div class="hint-row">
+          <span class="key-badge">A / D</span> <span>Move Left / Right</span>
+        </div>
+        <div class="hint-row">
+          <span class="key-badge">LMB</span> <span>Fire Slug Blaster</span>
+        </div>
+        <div class="hint-row">
+          <span class="key-badge">1, 2, 3</span> <span>Select Slug Holster</span>
+        </div>
+        <div class="hint-row">
+          <span class="key-badge">E</span> <span>Swap Slug When Full</span>
+        </div>
+        <div class="hint-row">
+          <span class="key-badge">RMB / Z</span> <span>Scope Zoom (When Upgraded)</span>
+        </div>
+        <div class="hint-row">
+          <span class="key-badge">Tab</span> <span>Scoreboard (8 Players)</span>
+        </div>
+      </div>
+
+      <!-- Bottom Center: Active Upgrades & 3-Slot Slug Holster -->
+      <div class="hud-bottom-center">
+        <!-- Active Gun Upgrades Tray -->
+        <div id="upgrades-tray" class="upgrades-tray"></div>
+
+        <!-- 3 Slug Holster Chambers -->
+        <div class="holster-slots-container">
+          <!-- Slot 1 -->
+          <div class="slug-slot active" id="slug-slot-1">
+            <span class="slot-key">1</span>
+            <div class="slot-icon-box"></div>
+            <span class="slot-name">EMPTY</span>
+            <div class="slot-ammo-pips" style="display: none;"></div>
+            <span class="slot-empty-text">EMPTY</span>
+          </div>
+
+          <!-- Slot 2 -->
+          <div class="slug-slot" id="slug-slot-2">
+            <span class="slot-key">2</span>
+            <div class="slot-icon-box"></div>
+            <span class="slot-name">EMPTY</span>
+            <div class="slot-ammo-pips" style="display: none;"></div>
+            <span class="slot-empty-text">EMPTY</span>
+          </div>
+
+          <!-- Slot 3 -->
+          <div class="slug-slot" id="slug-slot-3">
+            <span class="slot-key">3</span>
+            <div class="slot-icon-box"></div>
+            <span class="slot-name">EMPTY</span>
+            <div class="slot-ammo-pips" style="display: none;"></div>
+            <span class="slot-empty-text">EMPTY</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- In-World Swap Prompt Modal -->
+      <div id="swap-modal">
+        <div class="swap-title">SLUG HOLSTER FULL</div>
+        <div class="swap-desc">Select a slot to swap with the new slug:</div>
+        <div class="swap-options">
+          <button class="swap-btn" id="swap-btn-1">[Slot 1]</button>
+          <button class="swap-btn" id="swap-btn-2">[Slot 2]</button>
+          <button class="swap-btn" id="swap-btn-3">[Slot 3]</button>
+        </div>
+        <button class="swap-btn" id="swap-btn-cancel" style="background: rgba(255, 34, 68, 0.4); border-color: #ff3355; margin-top: 4px;">Cancel</button>
+      </div>
+
+      <!-- Scoreboard Modal (Tab) -->
+      <div id="scoreboard-modal">
+        <div class="sb-header">
+          <span class="sb-title">CAVERN BATTLE LEADERBOARD</span>
+          <span style="font-size: 12px; color: #888;">8 COMBATANTS</span>
+        </div>
+        <table class="sb-table">
+          <thead>
+            <tr>
+              <th>PLAYER</th>
+              <th>KILLS</th>
+              <th>DEATHS</th>
+              <th>SCORE</th>
+              <th>STATUS</th>
+            </tr>
+          </thead>
+          <tbody id="scoreboard-body"></tbody>
+        </table>
+      </div>
+
+      <!-- Start Match & Character Selection Screen -->
+      <div id="start-overlay">
+        <div class="title-logo">SLUGBATTLE 2.5D</div>
+        <div class="subtitle">Mini Militia Concept • 8-Player Cavern Warfare</div>
+
+        <div class="character-picker-title">SELECT YOUR SLUGTERRA SLINGER:</div>
+        <div class="character-picker">
+          <div class="char-card selected" data-char="player">
+            <div class="char-card-name">ELI SHANE</div>
+          </div>
+          <div class="char-card" data-char="trixie">
+            <div class="char-card-name">TRIXIE</div>
+          </div>
+          <div class="char-card" data-char="kord">
+            <div class="char-card-name">KORD</div>
+          </div>
+          <div class="char-card" data-char="pronto">
+            <div class="char-card-name">PRONTO</div>
+          </div>
+          <div class="char-card" data-char="drake">
+            <div class="char-card-name">DR. BLAKK</div>
+          </div>
+          <div class="char-card" data-char="mario">
+            <div class="char-card-name">MARIO</div>
+          </div>
+          <div class="char-card" data-char="nacho">
+            <div class="char-card-name">NACHO</div>
+          </div>
+          <div class="char-card" data-char="darkPerip">
+            <div class="char-card-name">SHADOW LEADER</div>
+          </div>
+        </div>
+
+        <button id="start-btn" class="start-btn">DEPLOY TO ARENA</button>
+
+        <div style="font-size: 12px; color: #718096; max-width: 600px; text-align: center; line-height: 1.6;">
+          Slugs and gun upgrades fall continuously from the cavern sky chutes. Starting unarmed: grab fallen slugs to load your blaster. Hold up to 3 slugs with 5 ammo each. Jetpack through multi-tiered platforms, avoid slippery slime puddles, and battle 7 AI opponents!
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Game Scripts -->
+  <script src="js/audio.js"></script>
+  <script src="js/atlas.js"></script>
+  <script src="js/camera.js"></script>
+  <script src="js/map.js"></script>
+  <script src="js/particles.js"></script>
+  <script src="js/slugs.js"></script>
+  <script src="js/upgrades.js"></script>
+  <script src="js/player.js"></script>
+  <script src="js/bot.js"></script>
+  <script src="js/game.js"></script>
+</body>
+</html>
+

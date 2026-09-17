@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:240ae012bbac58a4abc6a5f81dcbcf2f$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="teaser.png" width="752" height="725">
+    <sprite n="end_screenbanner" x="1" y="502" w="622" h="222" oX="73" oY="144" oW="750" oH="500"/>
+    <sprite n="end_screenbg" x="1" y="1" w="750" h="500"/>
+</TextureAtlas>

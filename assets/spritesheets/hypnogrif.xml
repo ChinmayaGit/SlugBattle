@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:28d508700c46defd98aa4e70f7af5bb5$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="hypnogrif.png" width="978" height="250">
+    <sprite n="hypno_fx0001" x="877" y="185" w="50" h="50"/>
+    <sprite n="hypno_fx0002" x="826" y="185" w="50" h="50"/>
+    <sprite n="hypno_fx0003" x="775" y="185" w="50" h="50"/>
+    <sprite n="hypno_fx0004" x="724" y="189" w="50" h="50"/>
+    <sprite n="hypno_fx0005" x="673" y="189" w="50" h="50"/>
+    <sprite n="hypno_fx0006" x="622" y="195" w="50" h="50"/>
+    <sprite n="hypno_fx0007" x="571" y="195" w="50" h="50"/>
+    <sprite n="hypno_shot0001" x="631" y="96" w="136" h="92" oX="4" oY="4" oW="140" oH="100"/>
+    <sprite n="hypno_shot0002" x="144" y="138" w="130" h="100" oX="10" oY="0" oW="140" oH="100"/>
+    <sprite n="hypno_shot0003" x="690" y="1" w="126" h="92" oX="14" oY="1" oW="140" oH="100"/>
+    <sprite n="hypno_shot0004" x="817" y="1" w="130" h="90" oX="10" oY="0" oW="140" oH="100"/>
+    <sprite n="hypno_shot0005" x="510" y="98" w="120" h="96" oX="20" oY="0" oW="140" oH="100"/>
+    <sprite n="hypno_shot0006" x="275" y="138" w="118" h="100" oX="22" oY="0" oW="140" oH="100"/>
+    <sprite n="hypno_shot0007" x="563" y="1" w="126" h="94" oX="14" oY="0" oW="140" oH="100"/>
+    <sprite n="hypno_shot0008" x="768" y="94" w="130" h="90" oX="10" oY="0" oW="140" oH="100"/>
+    <sprite n="hypno_shot0009" x="428" y="1" w="134" h="96" oX="6" oY="0" oW="140" oH="100"/>
+    <sprite n="hypnogrifBig" x="376" y="1" w="51" h="100" oX="13" oY="0" oW="75" oH="100"/>
+    <sprite n="hypnogrifDiagram" x="1" y="1" w="374" h="136" oX="251" oY="296" oW="750" oH="500"/>
+    <sprite n="hypnogrifIcon" x="394" y="102" w="115" h="98"/>
+    <sprite n="hypnogrifPower" x="1" y="138" w="142" h="105"/>
+    <sprite n="hypnoslug0001" x="953" y="99" w="24" h="46" oX="11" oY="6" oW="50" oH="52"/>
+    <sprite n="hypnoslug0002" x="953" y="146" w="24" h="44" oX="11" oY="8" oW="50" oH="52"/>
+    <sprite n="hypnoslug0003" x="928" y="146" w="24" h="44" oX="11" oY="8" oW="50" oH="52"/>
+    <sprite n="hypnoslug0004" x="899" y="139" w="24" h="44" oX="11" oY="8" oW="50" oH="52"/>
+    <sprite n="hypnoslug0005" x="928" y="99" w="24" h="46" oX="11" oY="6" oW="50" oH="52"/>
+    <sprite n="hypnoslug0006" x="928" y="99" w="24" h="46" oX="11" oY="6" oW="50" oH="52"/>
+    <sprite n="hypnoslug0007" x="899" y="92" w="24" h="46" oX="11" oY="6" oW="50" oH="52"/>
+    <sprite n="hypnoslug0008" x="444" y="201" w="24" h="48" oX="11" oY="4" oW="50" oH="52"/>
+    <sprite n="hypnoslug0009" x="948" y="52" w="24" h="46" oX="11" oY="6" oW="50" oH="52"/>
+    <sprite n="hypnoslug0010" x="492" y="201" w="24" h="46" oX="11" oY="6" oW="50" oH="52"/>
+    <sprite n="hypnoslug0011" x="419" y="201" w="24" h="48" oX="10" oY="4" oW="50" oH="52"/>
+    <sprite n="hypnoslug0012" x="394" y="201" w="24" h="48" oX="9" oY="3" oW="50" oH="52"/>
+    <sprite n="hypnoslug0013" x="469" y="201" w="22" h="48" oX="11" oY="3" oW="50" oH="52"/>
+    <sprite n="hypnoslug0014" x="544" y="195" w="26" h="52" oX="9" oY="0" oW="50" oH="52"/>
+    <sprite n="hypnoslug0015" x="517" y="195" w="26" h="52" oX="9" oY="0" oW="50" oH="52"/>
+    <sprite n="hypnoslug0016" x="948" y="1" w="26" h="50" oX="9" oY="2" oW="50" oH="52"/>
+</TextureAtlas>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:2e8284549d6a3e8f1c85d26480dc9cb2$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="wildspores.png" width="921" height="126">
+    <sprite n="platformx12" x="602" y="72" w="192" h="53"/>
+    <sprite n="platformx12_2" x="323" y="1" w="192" h="71"/>
+    <sprite n="platformx12_3" x="1" y="1" w="192" h="85" oX="0" oY="8" oW="192" oH="93"/>
+    <sprite n="platformx6_1" x="505" y="73" w="96" h="42"/>
+    <sprite n="platformx6_2" x="323" y="73" w="96" h="50"/>
+    <sprite n="platformx6_3" x="1" y="87" w="96" h="36" oX="0" oY="1" oW="96" oH="38"/>
+    <sprite n="platformx8_1" x="792" y="1" w="128" h="59"/>
+    <sprite n="platformx8_2" x="194" y="83" w="128" h="42"/>
+    <sprite n="platformx8_3" x="516" y="1" w="128" h="70"/>
+    <sprite n="rock01lg" x="194" y="1" w="128" h="81" oX="2" oY="0" oW="134" oH="81"/>
+    <sprite n="rock01small" x="420" y="73" w="84" h="49" oX="4" oY="4" oW="92" oH="53"/>
+    <sprite n="spike_med" x="742" y="1" w="32" h="70"/>
+    <sprite n="spike_short" x="775" y="1" w="16" h="70"/>
+    <sprite n="spikes_wide" x="645" y="1" w="96" h="70"/>
+</TextureAtlas>

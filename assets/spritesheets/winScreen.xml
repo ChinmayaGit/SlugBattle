@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:98b5b7280d706947a8ea7e455684db8b$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="winScreen.png" width="1534" height="1003">
+    <sprite n="drake_win" x="925" y="502" w="208" h="218" oX="262" oY="202" oW="750" oH="500"/>
+    <sprite n="eli_win" x="1329" y="758" w="204" h="192" oX="278" oY="223" oW="750" oH="500"/>
+    <sprite n="kord_win" x="752" y="731" w="276" h="218" oX="217" oY="200" oW="750" oH="500"/>
+    <sprite n="mario_win" x="752" y="502" w="172" h="228" oX="272" oY="190" oW="750" oH="500"/>
+    <sprite n="nacho_win" x="1134" y="502" w="212" h="206" oX="270" oY="209" oW="750" oH="500"/>
+    <sprite n="pronto_win" x="1029" y="721" w="218" h="210" oX="256" oY="206" oW="750" oH="500"/>
+    <sprite n="slug_canister" x="1248" y="709" w="80" h="122" oX="99" oY="229" oW="750" oH="500"/>
+    <sprite n="trixi_win" x="1347" y="561" w="178" h="196" oX="260" oY="219" oW="750" oH="500"/>
+    <sprite n="winscreen_bg_elements" x="752" y="1" w="750" h="500"/>
+    <sprite n="winscreen_bg_noslug" x="1" y="502" w="750" h="500"/>
+    <sprite n="winscreen_bg_slug" x="1" y="1" w="750" h="500"/>
+    <sprite n="winscreen_button" x="1347" y="502" w="180" h="58" oX="283" oY="428" oW="750" oH="500"/>
+    <sprite n="winscreen_check" x="1503" y="1" w="12" h="12"/>
+    <sprite n="winscreen_checkbox" x="1516" y="1" w="10" h="10"/>
+    <sprite n="winscreen_coin" x="917" y="950" w="31" h="31"/>
+    <sprite n="winscreen_mimic" x="752" y="950" w="41" h="52"/>
+    <sprite n="winscreen_newrecordbadge" x="844" y="950" w="40" h="48"/>
+    <sprite n="winscreen_nostar" x="794" y="950" w="49" h="48" oX="3" oY="3" oW="55" oH="54"/>
+    <sprite n="winscreen_star" x="1029" y="932" w="55" h="54"/>
+    <sprite n="winscreen_time" x="885" y="950" w="31" h="36"/>
+</TextureAtlas>

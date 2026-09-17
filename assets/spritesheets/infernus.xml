@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:f6da7899eb8220060bc8cbd5956bf4e4$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="infernus.png" width="846" height="146">
+    <sprite n="burpyDiagram" x="1" y="1" w="330" h="144" oX="335" oY="289" oW="750" oH="500"/>
+    <sprite n="infernusBig" x="504" y="1" w="58" h="100" oX="25" oY="0" oW="100" oH="100"/>
+    <sprite n="infernusIcon" x="563" y="1" w="113" h="95"/>
+    <sprite n="infernusPower" x="332" y="1" w="171" h="140"/>
+    <sprite n="slug_fire0001" x="817" y="1" w="26" h="43" oX="3" oY="2" oW="30" oH="45"/>
+    <sprite n="slug_fire_hop0001" x="819" y="85" w="26" h="39" oX="0" oY="6" oW="30" oH="45"/>
+    <sprite n="slug_fire_hop0002" x="819" y="45" w="26" h="39" oX="0" oY="6" oW="30" oH="45"/>
+    <sprite n="slug_fire_hop0003" x="790" y="1" w="26" h="43" oX="4" oY="0" oW="30" oH="45"/>
+    <sprite n="slug_fire_hop0004" x="767" y="45" w="26" h="43" oX="3" oY="0" oW="30" oH="45"/>
+    <sprite n="slug_fire_hop0005" x="753" y="89" w="26" h="43" oX="3" oY="2" oW="30" oH="45"/>
+    <sprite n="slug_fire_idle0001" x="763" y="1" w="26" h="43" oX="3" oY="2" oW="30" oH="45"/>
+    <sprite n="slug_fire_idle0002" x="740" y="45" w="26" h="43" oX="3" oY="2" oW="30" oH="45"/>
+    <sprite n="slug_fire_idle0003" x="780" y="89" w="26" h="41" oX="3" oY="4" oW="30" oH="45"/>
+    <sprite n="slug_fire_idle0004" x="726" y="91" w="26" h="43" oX="2" oY="2" oW="30" oH="45"/>
+    <sprite n="slug_fire_idle0005" x="699" y="91" w="26" h="43" oX="2" oY="2" oW="30" oH="45"/>
+    <sprite n="slug_fire_idle0006" x="699" y="91" w="26" h="43" oX="2" oY="2" oW="30" oH="45"/>
+    <sprite n="slug_fire_idle0007" x="699" y="91" w="26" h="43" oX="2" oY="2" oW="30" oH="45"/>
+    <sprite n="slug_fire_idle0008" x="794" y="45" w="24" h="41" oX="4" oY="4" oW="30" oH="45"/>
+    <sprite n="slug_fire_idle0009" x="780" y="89" w="26" h="41" oX="3" oY="4" oW="30" oH="45"/>
+    <sprite n="slug_fire_idle0010" x="736" y="1" w="26" h="43" oX="3" oY="2" oW="30" oH="45"/>
+    <sprite n="slug_fire_idle0011" x="763" y="1" w="26" h="43" oX="3" oY="2" oW="30" oH="45"/>
+    <sprite n="slug_fire_idle0012" x="763" y="1" w="26" h="43" oX="3" oY="2" oW="30" oH="45"/>
+    <sprite n="slug_fire_shot0001" x="504" y="102" w="68" h="43" oX="2" oY="2" oW="70" oH="45"/>
+    <sprite n="slug_fire_shot0002" x="677" y="47" w="62" h="43" oX="8" oY="2" oW="70" oH="45"/>
+    <sprite n="slug_fire_shot0003" x="573" y="97" w="64" h="45" oX="6" oY="0" oW="70" oH="45"/>
+    <sprite n="slug_fire_shot0004" x="677" y="1" w="58" h="45" oX="12" oY="0" oW="70" oH="45"/>
+    <sprite n="slug_fire_shot0005" x="638" y="97" w="60" h="45" oX="10" oY="0" oW="70" oH="45"/>
+</TextureAtlas>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:fc94a8b23032da8782d65f6dbe48191c$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="mapDarkperip.png" width="1295" height="502">
+    <sprite n="end" x="752" y="352" w="160" h="120" oX="518" oY="322" oW="750" oH="500"/>
+    <sprite n="end_rollover" x="1114" y="122" w="58" h="158" oX="593" oY="303" oW="750" oH="500"/>
+    <sprite n="level_1" x="1205" y="168" w="88" h="112" oX="100" oY="172" oW="750" oH="500"/>
+    <sprite n="level_10" x="1205" y="386" w="38" h="106" oX="476" oY="351" oW="750" oH="500"/>
+    <sprite n="level_2" x="1205" y="1" w="78" h="166" oX="128" oY="284" oW="750" oH="500"/>
+    <sprite n="level_3" x="1086" y="431" w="118" h="64" oX="217" oY="331" oW="750" oH="500"/>
+    <sprite n="level_4" x="1190" y="281" w="82" h="104" oX="312" oY="222" oW="750" oH="500"/>
+    <sprite n="level_5" x="752" y="1" w="302" h="350" oX="143" oY="100" oW="750" oH="500"/>
+    <sprite n="level_6" x="1055" y="281" w="134" h="48" oX="450" oY="105" oW="750" oH="500"/>
+    <sprite n="level_7" x="913" y="352" w="186" h="78" oX="538" oY="147" oW="750" oH="500"/>
+    <sprite n="level_8" x="913" y="431" w="172" h="62" oX="511" oY="215" oW="750" oH="500"/>
+    <sprite n="level_9" x="1100" y="330" w="66" h="78" oX="449" oY="268" oW="750" oH="500"/>
+    <sprite n="map_back" x="1" y="1" w="750" h="500"/>
+    <sprite n="start" x="1055" y="1" w="120" h="120" oX="32" oY="60" oW="750" oH="500"/>
+    <sprite n="start_rollover" x="1055" y="122" w="58" h="158" oX="56" oY="42" oW="750" oH="500"/>
+</TextureAtlas>

@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:489b42ffae0193a8ed02a5946dec7314$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="darkPerip.png" width="2044" height="1286">
+    <sprite n="bogie bug0001" x="1990" y="186" w="49" h="43" oX="2" oY="9" oW="55" oH="55"/>
+    <sprite n="bogie bug0002" x="1751" y="887" w="47" h="43" oX="4" oY="9" oW="55" oH="55"/>
+    <sprite n="bogie bug0003" x="1992" y="142" w="47" h="43" oX="4" oY="10" oW="55" oH="55"/>
+    <sprite n="bogie bug0004" x="1922" y="1040" w="49" h="43" oX="3" oY="9" oW="55" oH="55"/>
+    <sprite n="bogie bug0005" x="1755" y="845" w="49" h="41" oX="3" oY="11" oW="55" oH="55"/>
+    <sprite n="bogie bug0006" x="1990" y="230" w="49" h="41" oX="3" oY="11" oW="55" oH="55"/>
+    <sprite n="bogie bug0007" x="1468" y="675" w="49" h="43" oX="3" oY="10" oW="55" oH="55"/>
+    <sprite n="bogie bug0008" x="1992" y="98" w="47" h="43" oX="4" oY="9" oW="55" oH="55"/>
+    <sprite n="dinoratmetal_run0001" x="1801" y="243" w="178" h="69" oX="0" oY="2" oW="190" oH="83"/>
+    <sprite n="dinoratmetal_run0002" x="1622" y="241" w="178" h="67" oX="0" oY="4" oW="190" oH="83"/>
+    <sprite n="dinoratmetal_run0003" x="1809" y="175" w="180" h="67" oX="0" oY="9" oW="190" oH="83"/>
+    <sprite n="dinoratmetal_run0004" x="1621" y="309" w="174" h="67" oX="3" oY="10" oW="190" oH="83"/>
+    <sprite n="dinoratmetal_run0005" x="1018" y="1111" w="168" h="69" oX="7" oY="8" oW="190" oH="83"/>
+    <sprite n="dinoratmetal_run0006" x="1295" y="675" w="172" h="67" oX="4" oY="9" oW="190" oH="83"/>
+    <sprite n="dinoratmetal_run0007" x="1007" y="939" w="174" h="67" oX="3" oY="6" oW="190" oH="83"/>
+    <sprite n="dinoratmetal_run0008" x="1443" y="235" w="178" h="69" oX="0" oY="2" oW="190" oH="83"/>
+    <sprite n="dinoratmetal_walk0001" x="1626" y="171" w="182" h="69" oX="5" oY="11" oW="190" oH="83"/>
+    <sprite n="dinoratmetal_walk0002" x="1262" y="215" w="180" h="69" oX="6" oY="12" oW="190" oH="83"/>
+    <sprite n="dinoratmetal_walk0003" x="1037" y="723" w="178" h="71" oX="8" oY="12" oW="190" oH="83"/>
+    <sprite n="dinoratmetal_walk0004" x="1052" y="867" w="176" h="71" oX="8" oY="12" oW="190" oH="83"/>
+    <sprite n="dinoratmetal_walk0005" x="335" y="1116" w="174" h="71" oX="10" oY="12" oW="190" oH="83"/>
+    <sprite n="dinoratmetal_walk0006" x="1052" y="795" w="176" h="71" oX="9" oY="12" oW="190" oH="83"/>
+    <sprite n="dinoratmetal_walk0007" x="1262" y="143" w="180" h="71" oX="6" oY="12" oW="190" oH="83"/>
+    <sprite n="dinoratmetal_walk0008" x="1443" y="165" w="182" h="69" oX="5" oY="11" oW="190" oH="83"/>
+    <sprite n="dkwater1" x="1785" y="975" w="122" h="66" oX="0" oY="6" oW="122" oH="72"/>
+    <sprite n="dkwater2" x="1187" y="1110" w="122" h="70" oX="0" oY="2" oW="122" oH="72"/>
+    <sprite n="dkwater3" x="1291" y="1208" w="122" h="68" oX="0" oY="4" oW="122" oH="72"/>
+    <sprite n="dkwater4" x="1836" y="835" w="122" h="66" oX="0" oY="6" oW="122" oH="72"/>
+    <sprite n="dkwater5" x="1836" y="768" w="122" h="66" oX="0" oY="6" oW="122" oH="72"/>
+    <sprite n="dkwater6" x="1908" y="701" w="122" h="66" oX="0" oY="6" oW="122" oH="72"/>
+    <sprite n="dkwater7" x="1913" y="634" w="122" h="66" oX="0" oY="6" oW="122" oH="72"/>
+    <sprite n="dkwater8" x="1414" y="1209" w="122" h="66" oX="0" oY="6" oW="122" oH="72"/>
+    <sprite n="dkwater_drop0001" x="1992" y="1" w="42" h="96" oX="68" oY="2" oW="180" oH="130"/>
+    <sprite n="dkwater_drop0002" x="1422" y="1016" w="96" h="78" oX="45" oY="52" oW="180" oH="130"/>
+    <sprite n="dkwater_drop0003" x="1" y="1191" w="170" h="94" oX="7" oY="14" oW="180" oH="130"/>
+    <sprite n="dkwater_drop0004" x="837" y="1022" w="180" h="106" oX="0" oY="0" oW="180" oH="130"/>
+    <sprite n="dkwater_drop0005" x="533" y="1159" w="170" h="116" oX="7" oY="0" oW="180" oH="130"/>
+    <sprite n="dkwater_puddle0001" x="1820" y="950" w="158" h="24" oX="0" oY="9" oW="160" oH="48"/>
+    <sprite n="dkwater_puddle0002" x="1820" y="925" w="158" h="24" oX="0" oY="9" oW="160" oH="48"/>
+    <sprite n="dkwater_puddle0003" x="1820" y="902" w="158" h="22" oX="0" oY="11" oW="160" oH="48"/>
+    <sprite n="dkwater_puddle0004" x="1570" y="1195" w="158" h="24" oX="0" oY="9" oW="160" oH="48"/>
+    <sprite n="dkwater_puddle0005" x="1653" y="631" w="158" h="26" oX="0" oY="7" oW="160" oH="48"/>
+    <sprite n="dkwater_puddle0006" x="1537" y="1249" w="158" h="28" oX="0" oY="5" oW="160" oH="48"/>
+    <sprite n="dkwater_puddle0007" x="1537" y="1220" w="158" h="28" oX="0" oY="5" oW="160" oH="48"/>
+    <sprite n="dkwater_puddle0008" x="1347" y="991" w="158" h="24" oX="0" oY="9" oW="160" oH="48"/>
+    <sprite n="doorshort" x="1001" y="226" w="166" h="86"/>
+    <sprite n="electric_bat0001" x="1820" y="1193" w="104" h="48" oX="1" oY="11" oW="110" oH="60"/>
+    <sprite n="electric_bat0002" x="1729" y="1190" w="90" h="48" oX="0" oY="12" oW="110" oH="60"/>
+    <sprite n="electric_bat0003" x="1168" y="226" w="88" h="54" oX="0" oY="0" oW="110" oH="60"/>
+    <sprite n="electric_bat0004" x="1927" y="1149" w="98" h="50" oX="0" oY="3" oW="110" oH="60"/>
+    <sprite n="electric_bat0005" x="1696" y="1239" w="104" h="44" oX="0" oY="9" oW="110" oH="60"/>
+    <sprite n="electric_bat0006" x="1820" y="1144" w="106" h="48" oX="1" oY="7" oW="110" oH="60"/>
+    <sprite n="electric_bat0007" x="1797" y="692" w="110" h="58" oX="0" oY="0" oW="110" oH="60"/>
+    <sprite n="electric_bat0008" x="1820" y="1087" w="106" h="56" oX="0" oY="2" oW="110" oH="60"/>
+    <sprite n="enigmo_ball" x="1959" y="768" w="80" h="80"/>
+    <sprite n="enigmosphere" x="1755" y="764" w="80" h="80"/>
+    <sprite n="invisible" x="172" y="1185" w="100" h="100"/>
+    <sprite n="platformx10" x="1182" y="983" w="164" h="32"/>
+    <sprite n="platformx12" x="852" y="803" w="199" h="64"/>
+    <sprite n="platformx12a" x="1037" y="139" w="192" h="40"/>
+    <sprite n="platformx16" x="1001" y="180" w="260" h="45"/>
+    <sprite n="platformx6" x="1812" y="630" w="100" h="61"/>
+    <sprite n="platformx6a" x="1925" y="1200" w="102" h="24"/>
+    <sprite n="platformx6b" x="1938" y="1225" w="104" h="50"/>
+    <sprite n="platformx8" x="1801" y="1242" w="136" h="26" oX="0" oY="4" oW="136" oH="30"/>
+    <sprite n="rockturtle0001" x="1304" y="1016" w="117" h="93" oX="12" oY="12" oW="135" oH="105"/>
+    <sprite n="rockturtle0002" x="1501" y="305" w="119" h="95" oX="11" oY="10" oW="135" oH="105"/>
+    <sprite n="rockturtle0003" x="1310" y="1110" w="121" h="97" oX="10" oY="8" oW="135" oH="105"/>
+    <sprite n="rockturtle0004" x="1696" y="1090" w="123" h="99" oX="8" oY="6" oW="135" oH="105"/>
+    <sprite n="rockturtle0005" x="1570" y="1093" w="125" h="101" oX="7" oY="4" oW="135" oH="105"/>
+    <sprite n="rockturtle0006" x="1165" y="1181" w="125" h="101" oX="7" oY="4" oW="135" oH="105"/>
+    <sprite n="rockturtle0007" x="1523" y="657" w="129" h="101" oX="3" oY="2" oW="135" oH="105"/>
+    <sprite n="rockturtle0008" x="1477" y="759" w="133" h="103" oX="0" oY="0" oW="135" oH="105"/>
+    <sprite n="rockturtle0009" x="273" y="1188" w="131" h="97" oX="1" oY="6" oW="135" oH="105"/>
+    <sprite n="rockturtle0010" x="1176" y="1016" w="127" h="93" oX="4" oY="12" oW="135" oH="105"/>
+    <sprite n="rockturtle0011" x="405" y="1188" w="127" h="97" oX="5" oY="8" oW="135" oH="105"/>
+    <sprite n="shadowclan0001" x="1391" y="415" w="129" h="129" oX="24" oY="24" oW="181" oH="153"/>
+    <sprite n="shadowclan0002" x="1261" y="415" w="129" h="129" oX="24" oY="24" oW="181" oH="153"/>
+    <sprite n="shadowclan0003" x="1653" y="503" w="129" h="127" oX="24" oY="26" oW="181" oH="153"/>
+    <sprite n="shadowclan0004" x="1165" y="577" w="129" h="129" oX="24" oY="24" oW="181" oH="153"/>
+    <sprite n="shadowclan0005" x="1783" y="504" w="129" h="125" oX="24" oY="28" oW="181" oH="153"/>
+    <sprite n="shadowclan0006" x="1783" y="378" w="129" h="125" oX="24" oY="28" oW="181" oH="153"/>
+    <sprite n="shadowclan0007" x="1229" y="867" w="129" h="115" oX="24" oY="38" oW="181" oH="153"/>
+    <sprite n="shadowclan0008" x="1519" y="985" w="129" h="107" oX="24" oY="46" oW="181" oH="153"/>
+    <sprite n="shadowclan0009" x="1359" y="871" w="129" h="119" oX="24" oY="34" oW="181" oH="153"/>
+    <sprite n="shadowclan0010" x="1135" y="313" w="105" h="131" oX="31" oY="22" oW="181" oH="153"/>
+    <sprite n="shadowclan0011" x="1151" y="445" w="109" h="131" oX="37" oY="22" oW="181" oH="153"/>
+    <sprite n="shadowclan0012" x="1913" y="378" w="115" h="127" oX="46" oY="25" oW="181" oH="153"/>
+    <sprite n="shadowclan0013" x="1523" y="529" w="129" h="127" oX="33" oY="23" oW="181" oH="153"/>
+    <sprite n="shadowclan0014" x="703" y="1029" w="133" h="129" oX="22" oY="21" oW="181" oH="153"/>
+    <sprite n="shadowclan0015" x="1913" y="506" w="119" h="127" oX="27" oY="21" oW="181" oH="153"/>
+    <sprite n="shadowclan0016" x="1295" y="545" w="101" h="129" oX="36" oY="22" oW="181" oH="153"/>
+    <sprite n="shadowclan0017" x="1241" y="285" w="129" h="129" oX="24" oY="24" oW="181" oH="153"/>
+    <sprite n="shadowclan0018" x="1653" y="658" w="143" h="105" oX="10" oY="48" oW="181" oH="153"/>
+    <sprite n="shadowclan0019" x="1011" y="1181" w="153" h="101" oX="0" oY="52" oW="181" oH="153"/>
+    <sprite n="shadowclan0020" x="1019" y="457" w="131" h="133" oX="22" oY="20" oW="181" oH="153"/>
+    <sprite n="shadowclan0021" x="1003" y="313" w="131" h="143" oX="25" oY="10" oW="181" oH="153"/>
+    <sprite n="shadowclan0022" x="1018" y="1007" w="157" h="103" oX="24" oY="50" oW="181" oH="153"/>
+    <sprite n="shadowclan0023" x="1611" y="764" w="143" h="91" oX="24" oY="62" oW="181" oH="153"/>
+    <sprite n="shadowclan0024" x="1229" y="743" w="129" h="123" oX="24" oY="30" oW="181" oH="153"/>
+    <sprite n="shadowclan0025" x="1371" y="305" w="129" h="109" oX="24" oY="44" oW="181" oH="153"/>
+    <sprite n="shadowclan0026" x="1432" y="1095" w="137" h="113" oX="16" oY="40" oW="181" oH="153"/>
+    <sprite n="shadowclan0027" x="1649" y="976" w="135" h="113" oX="18" oY="40" oW="181" oH="153"/>
+    <sprite n="shadowclan0028" x="704" y="1159" w="133" h="117" oX="20" oY="36" oW="181" oH="153"/>
+    <sprite n="shadowclan0029" x="1651" y="377" w="131" h="125" oX="23" oY="28" oW="181" oH="153"/>
+    <sprite n="shadowclan0030" x="1619" y="856" w="131" h="119" oX="23" oY="34" oW="181" oH="153"/>
+    <sprite n="shadowclan0031" x="1397" y="545" w="125" h="129" oX="20" oY="20" oW="181" oH="153"/>
+    <sprite n="shadowclan0032" x="1359" y="743" w="117" h="127" oX="20" oY="13" oW="181" oH="153"/>
+    <sprite n="shadowclan0033" x="1037" y="591" w="127" h="131" oX="30" oY="0" oW="181" oH="153"/>
+    <sprite n="shadowclan0034" x="1521" y="401" w="129" h="127" oX="24" oY="26" oW="181" oH="153"/>
+    <sprite n="shadowclan0035" x="1489" y="863" w="129" h="121" oX="24" oY="32" oW="181" oH="153"/>
+    <sprite n="shadowclan0036" x="1391" y="415" w="129" h="129" oX="24" oY="24" oW="181" oH="153"/>
+    <sprite n="shadowclan0037" x="1261" y="415" w="129" h="129" oX="24" oY="24" oW="181" oH="153"/>
+    <sprite n="shadowleader0001" x="484" y="195" w="174" h="175" oX="37" oY="22" oW="260" oH="201"/>
+    <sprite n="shadowleader0002" x="156" y="507" w="174" h="177" oX="37" oY="21" oW="260" oH="201"/>
+    <sprite n="shadowleader0003" x="331" y="776" w="172" h="171" oX="39" oY="26" oW="260" oH="201"/>
+    <sprite n="shadowleader0004" x="311" y="254" w="172" h="175" oX="39" oY="23" oW="260" oH="201"/>
+    <sprite n="shadowleader0005" x="331" y="604" w="172" h="171" oX="39" oY="26" oW="260" oH="201"/>
+    <sprite n="shadowleader0006" x="830" y="317" w="172" h="169" oX="39" oY="28" oW="260" oH="201"/>
+    <sprite n="shadowleader0007" x="834" y="868" w="172" h="153" oX="39" oY="44" oW="260" oH="201"/>
+    <sprite n="shadowleader0008" x="838" y="1129" w="172" h="143" oX="39" oY="54" oW="260" oH="201"/>
+    <sprite n="shadowleader0009" x="677" y="693" w="174" h="161" oX="37" oY="37" oW="260" oH="201"/>
+    <sprite n="shadowleader0010" x="170" y="1009" w="164" h="175" oX="49" oY="20" oW="260" oH="201"/>
+    <sprite n="shadowleader0011" x="659" y="183" w="166" h="173" oX="48" oY="21" oW="260" oH="201"/>
+    <sprite n="shadowleader0012" x="488" y="371" w="172" h="169" oX="49" oY="24" oW="260" oH="201"/>
+    <sprite n="shadowleader0013" x="335" y="948" w="174" h="167" oX="49" oY="23" oW="260" oH="201"/>
+    <sprite n="shadowleader0014" x="1813" y="1" w="178" h="173" oX="35" oY="18" oW="260" oH="201"/>
+    <sprite n="shadowleader0015" x="504" y="541" w="160" h="171" oX="41" oY="17" oW="260" oH="201"/>
+    <sprite n="shadowleader0016" x="693" y="855" w="140" h="173" oX="49" oY="19" oW="260" oH="201"/>
+    <sprite n="shadowleader0017" x="156" y="685" w="174" h="175" oX="37" oY="23" oW="260" oH="201"/>
+    <sprite n="shadowleader0018" x="1248" y="1" w="194" h="141" oX="17" oY="56" oW="260" oH="201"/>
+    <sprite n="shadowleader0019" x="1037" y="1" w="210" h="137" oX="1" oY="61" oW="260" oH="201"/>
+    <sprite n="shadowleader0020" x="643" y="1" w="176" h="181" oX="36" oY="16" oW="260" oH="201"/>
+    <sprite n="shadowleader0021" x="466" y="1" w="176" h="193" oX="39" oY="5" oW="260" oH="201"/>
+    <sprite n="shadowleader0022" x="820" y="1" w="216" h="141" oX="39" oY="57" oW="260" oH="201"/>
+    <sprite n="shadowleader0023" x="510" y="1037" w="192" h="121" oX="39" oY="77" oW="260" oH="201"/>
+    <sprite n="shadowleader0024" x="504" y="713" w="172" h="167" oX="39" oY="31" oW="260" oH="201"/>
+    <sprite n="shadowleader0025" x="156" y="861" w="174" h="147" oX="37" oY="50" oW="260" oH="201"/>
+    <sprite n="shadowleader0026" x="852" y="647" w="184" h="155" oX="27" oY="42" oW="260" oH="201"/>
+    <sprite n="shadowleader0027" x="510" y="881" w="182" h="155" oX="29" oY="42" oW="260" oH="201"/>
+    <sprite n="shadowleader0028" x="840" y="487" w="178" h="159" oX="33" oY="38" oW="260" oH="201"/>
+    <sprite n="shadowleader0029" x="1632" y="1" w="180" h="169" oX="32" oY="28" oW="260" oH="201"/>
+    <sprite n="shadowleader0030" x="1443" y="1" w="188" h="163" oX="23" oY="34" oW="260" oH="201"/>
+    <sprite n="shadowleader0031" x="661" y="357" w="168" h="171" oX="32" oY="18" oW="260" oH="201"/>
+    <sprite n="shadowleader0032" x="331" y="430" w="156" h="173" oX="32" oY="4" oW="260" oH="201"/>
+    <sprite n="shadowleader0033" x="1" y="1013" w="168" h="177" oX="47" oY="1" oW="260" oH="201"/>
+    <sprite n="shadowleader0034" x="826" y="143" w="174" h="173" oX="37" oY="25" oW="260" oH="201"/>
+    <sprite n="shadowleader0035" x="665" y="529" w="174" h="163" oX="37" oY="34" oW="260" oH="201"/>
+    <sprite n="shadowleader0036" x="484" y="195" w="174" h="175" oX="37" oY="22" oW="260" oH="201"/>
+    <sprite n="shadowleader0037" x="156" y="507" w="174" h="177" oX="37" oY="21" oW="260" oH="201"/>
+    <sprite n="static0001" x="1927" y="1084" w="64" h="64"/>
+    <sprite n="static0002" x="1973" y="979" w="64" h="64"/>
+    <sprite n="static0003" x="1908" y="975" w="64" h="64"/>
+    <sprite n="static0004" x="1979" y="914" w="64" h="64"/>
+    <sprite n="static0005" x="1979" y="849" w="64" h="64"/>
+    <sprite n="static0006" x="1973" y="313" w="64" h="64"/>
+    <sprite n="teleportbase_fx0001" x="1" y="760" w="154" h="252" oX="15" oY="0" oW="180" oH="260"/>
+    <sprite n="teleportbase_fx0002" x="311" y="1" w="154" h="252" oX="15" oY="0" oW="180" oH="260"/>
+    <sprite n="teleportbase_fx0003" x="156" y="254" w="154" h="252" oX="15" oY="0" oW="180" oH="260"/>
+    <sprite n="teleportbase_fx0004" x="1" y="507" w="154" h="252" oX="15" oY="0" oW="180" oH="260"/>
+    <sprite n="teleportbase_fx0005" x="156" y="1" w="154" h="252" oX="15" oY="0" oW="180" oH="260"/>
+    <sprite n="teleportbase_fx0006" x="1" y="254" w="154" h="252" oX="15" oY="0" oW="180" oH="260"/>
+    <sprite n="teleportbase_fx0007" x="1" y="1" w="154" h="252" oX="15" oY="0" oW="180" oH="260"/>
+    <sprite n="teleportbase_fx0008" x="1" y="760" w="154" h="252" oX="15" oY="0" oW="180" oH="260"/>
+    <sprite n="teleportbase_fx0009" x="311" y="1" w="154" h="252" oX="15" oY="0" oW="180" oH="260"/>
+    <sprite n="teleportbase_fx0010" x="156" y="254" w="154" h="252" oX="15" oY="0" oW="180" oH="260"/>
+    <sprite n="teleportbase_fx0011" x="1" y="507" w="154" h="252" oX="15" oY="0" oW="180" oH="260"/>
+    <sprite n="teleportbase_fx0012" x="156" y="1" w="154" h="252" oX="15" oY="0" oW="180" oH="260"/>
+    <sprite n="teleportbase_ol" x="1796" y="313" w="176" h="64" oX="1" oY="195" oW="180" oH="260"/>
+    <sprite n="teleportbase_ul" x="1785" y="1042" w="136" h="44" oX="22" oY="198" oW="180" oH="260"/>
+</TextureAtlas>

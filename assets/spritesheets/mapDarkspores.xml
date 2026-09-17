@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:cd72211293f1ddf8185e00a76f5d3f9b$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="mapDarkspores.png" width="1894" height="502">
+    <sprite n="clvl_vinedrill_purchased" x="1188" y="421" w="28" h="58" oX="476" oY="414" oW="750" oH="500"/>
+    <sprite n="clvl_vinedrill_unlocked" x="1365" y="398" w="68" h="96" oX="436" oY="376" oW="750" oH="500"/>
+    <sprite n="darkspore_base" x="1" y="1" w="750" h="500"/>
+    <sprite n="entrance" x="1065" y="306" w="120" h="120" oX="107" oY="88" oW="750" oH="500"/>
+    <sprite n="entrance_rollover" x="889" y="306" w="58" h="158" oX="131" oY="69" oW="750" oH="500"/>
+    <sprite n="exit" x="948" y="306" w="116" h="140" oX="634" oY="313" oW="750" oH="500"/>
+    <sprite n="exit_rollover" x="830" y="306" w="58" h="158" oX="669" oY="314" oW="750" oH="500"/>
+    <sprite n="level1" x="1440" y="226" w="90" h="106" oX="214" oY="178" oW="750" oH="500"/>
+    <sprite n="level10" x="1531" y="226" w="88" h="94" oX="618" oY="213" oW="750" oH="500"/>
+    <sprite n="level2" x="1325" y="1" w="568" h="224" oX="126" oY="135" oW="750" oH="500"/>
+    <sprite n="level3" x="1365" y="289" w="74" h="108" oX="63" oY="358" oW="750" oH="500"/>
+    <sprite n="level4" x="752" y="1" w="572" h="304" oX="122" oY="135" oW="750" oH="500"/>
+    <sprite n="level5" x="1434" y="398" w="154" h="94" oX="312" oY="308" oW="750" oH="500"/>
+    <sprite n="level6" x="1325" y="226" w="110" h="62" oX="462" oY="284" oW="750" oH="500"/>
+    <sprite n="level7" x="1186" y="306" w="178" h="114" oX="357" oY="169" oW="750" oH="500"/>
+    <sprite n="level8" x="1065" y="427" w="122" h="68" oX="407" oY="124" oW="750" oH="500"/>
+    <sprite n="level9" x="948" y="447" w="96" h="48" oX="527" oY="159" oW="750" oH="500"/>
+    <sprite n="vinedrill_totem" x="752" y="306" w="77" h="160"/>
+</TextureAtlas>

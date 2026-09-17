@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:54bce8a4ad3e34de75ebf64d50acb174$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="bludgeon.png" width="1523" height="249">
+    <sprite n="bludgeonBig" x="1446" y="81" w="58" h="96" oX="27" oY="3" oW="100" oH="100"/>
+    <sprite n="bludgeonDiagram" x="1" y="1" w="402" h="132" oX="260" oY="295" oW="750" oH="500"/>
+    <sprite n="bludgeonIcon" x="907" y="1" w="113" h="95"/>
+    <sprite n="bludgeonPower" x="142" y="134" w="140" h="72"/>
+    <sprite n="half_clash_0001" x="1" y="134" w="140" h="93" oX="0" oY="32" oW="140" oH="145"/>
+    <sprite n="half_clash_0002" x="404" y="1" w="108" h="143" oX="32" oY="2" oW="140" oH="145"/>
+    <sprite n="half_clash_0003" x="622" y="1" w="108" h="145" oX="32" oY="0" oW="140" oH="145"/>
+    <sprite n="half_clash_0004" x="513" y="1" w="108" h="145" oX="32" oY="0" oW="140" oH="145"/>
+    <sprite n="half_clash_0005" x="731" y="1" w="94" h="145" oX="46" oY="0" oW="140" oH="145"/>
+    <sprite n="half_clash_0006" x="826" y="1" w="80" h="145" oX="60" oY="0" oW="140" oH="145"/>
+    <sprite n="half_clash_0007" x="1375" y="85" w="70" h="131" oX="70" oY="12" oW="140" oH="145"/>
+    <sprite n="ramstone_lev3_0001" x="521" y="147" w="112" h="81" oX="21" oY="33" oW="140" oH="145"/>
+    <sprite n="ramstone_lev3_0002" x="1146" y="1" w="124" h="81" oX="9" oY="34" oW="140" oH="145"/>
+    <sprite n="ramstone_lev3_0003" x="404" y="147" w="116" h="81" oX="17" oY="32" oW="140" oH="145"/>
+    <sprite n="ramstone_lev3_0004" x="1258" y="167" w="116" h="81" oX="17" oY="30" oW="140" oH="145"/>
+    <sprite n="ramstone_lev3_0005" x="745" y="147" w="110" h="81" oX="23" oY="29" oW="140" oH="145"/>
+    <sprite n="ramstone_lev3_0006" x="283" y="134" w="120" h="81" oX="13" oY="29" oW="140" oH="145"/>
+    <sprite n="ramstone_lev3_0007" x="1141" y="85" w="116" h="83" oX="16" oY="28" oW="140" oH="145"/>
+    <sprite n="ramstone_lev3_0008" x="1271" y="1" w="122" h="83" oX="10" oY="27" oW="140" oH="145"/>
+    <sprite n="ramstone_lev3_0009" x="1024" y="85" w="116" h="83" oX="16" oY="27" oW="140" oH="145"/>
+    <sprite n="ramstone_lev3_0010" x="1258" y="85" w="116" h="81" oX="17" oY="28" oW="140" oH="145"/>
+    <sprite n="ramstone_lev3_0011" x="634" y="147" w="110" h="81" oX="23" oY="29" oW="140" oH="145"/>
+    <sprite n="ramstone_lev3_0012" x="1021" y="1" w="124" h="83" oX="9" oY="29" oW="140" oH="145"/>
+    <sprite n="ramstone_lev3_0013" x="907" y="97" w="116" h="81" oX="17" oY="32" oW="140" oH="145"/>
+    <sprite n="ramstone_lev3_0014" x="1394" y="1" w="122" h="79" oX="11" oY="33" oW="140" oH="145"/>
+    <sprite n="ramstone_lev3_0015" x="1139" y="169" w="114" h="79" oX="19" oY="33" oW="140" oH="145"/>
+    <sprite n="ramstone_lev3_0016" x="1024" y="169" w="114" h="79" oX="19" oY="33" oW="140" oH="145"/>
+    <sprite n="slug_horn_hop0001" x="1446" y="178" w="27" h="42" oX="3" oY="4" oW="35" oH="50"/>
+    <sprite n="slug_horn_hop0002" x="1474" y="178" w="27" h="46" oX="6" oY="0" oW="35" oH="50"/>
+    <sprite n="slug_horn_hop0003" x="856" y="147" w="27" h="46" oX="6" oY="0" oW="35" oH="50"/>
+    <sprite n="slug_horn_hop0004" x="886" y="179" w="25" h="42" oX="5" oY="5" oW="35" oH="50"/>
+    <sprite n="slug_horn_hop0005" x="856" y="194" w="29" h="36" oX="0" oY="11" oW="35" oH="50"/>
+    <sprite n="slug_horn_idle0001" x="220" y="207" w="25" h="40" oX="5" oY="7" oW="35" oH="50"/>
+    <sprite n="slug_horn_idle0002" x="194" y="207" w="25" h="40" oX="5" oY="7" oW="35" oH="50"/>
+    <sprite n="slug_horn_idle0003" x="912" y="179" w="25" h="38" oX="5" oY="9" oW="35" oH="50"/>
+    <sprite n="slug_horn_idle0004" x="246" y="207" w="25" h="38" oX="6" oY="9" oW="35" oH="50"/>
+    <sprite n="slug_horn_idle0005" x="168" y="207" w="25" h="40" oX="7" oY="7" oW="35" oH="50"/>
+    <sprite n="slug_horn_idle0006" x="142" y="207" w="25" h="40" oX="7" oY="7" oW="35" oH="50"/>
+    <sprite n="slug_horn_idle0007" x="246" y="207" w="25" h="38" oX="6" oY="9" oW="35" oH="50"/>
+    <sprite n="slug_horn_idle0008" x="912" y="179" w="25" h="38" oX="5" oY="9" oW="35" oH="50"/>
+    <sprite n="slug_horn_idle0009" x="194" y="207" w="25" h="40" oX="5" oY="7" oW="35" oH="50"/>
+    <sprite n="slug_horn_idle0010" x="220" y="207" w="25" h="40" oX="5" oY="7" oW="35" oH="50"/>
+</TextureAtlas>

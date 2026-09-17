@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:3c2e8a8372a7875338f005d71e6afd32$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="store.png" width="1458" height="502">
+    <sprite n="bg" x="1" y="1" w="750" h="500"/>
+    <sprite n="button" x="1307" y="246" w="121" h="52"/>
+    <sprite n="buttons" x="916" y="442" w="390" h="58" oX="314" oY="409" oW="750" oH="500"/>
+    <sprite n="category_box" x="752" y="246" w="137" h="212"/>
+    <sprite n="category_scroll" x="986" y="355" w="51" h="76"/>
+    <sprite n="category_selected" x="839" y="459" w="45" h="37"/>
+    <sprite n="coin" x="798" y="459" w="40" h="40"/>
+    <sprite n="equiped_back" x="890" y="355" w="95" h="86"/>
+    <sprite n="icon_back" x="890" y="246" w="120" h="108"/>
+    <sprite n="item_equiped" x="752" y="188" w="676" h="57"/>
+    <sprite n="item_selected" x="752" y="1" w="705" h="128"/>
+    <sprite n="purchased" x="885" y="459" w="30" h="29"/>
+    <sprite n="smallicon_back" x="752" y="459" w="45" h="40"/>
+    <sprite n="store_scroll" x="1011" y="271" w="49" h="24"/>
+    <sprite n="store_scroll_hover" x="1011" y="246" w="49" h="24"/>
+    <sprite n="store_scroll_up" x="1011" y="324" w="49" h="24"/>
+    <sprite n="store_scroll_up_hover" x="1011" y="299" w="49" h="24"/>
+    <sprite n="storeitem" x="752" y="130" w="676" h="57"/>
+</TextureAtlas>

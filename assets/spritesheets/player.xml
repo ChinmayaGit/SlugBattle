@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:eda3d8cfe67f4293a76945ea4120963f$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="player.png" width="2033" height="145">
+    <sprite n="eli0001" x="1568" y="1" w="72" h="66" oX="27" oY="22" oW="130" oH="90"/>
+    <sprite n="eli0002" x="1686" y="68" w="70" h="66" oX="30" oY="22" oW="130" oH="90"/>
+    <sprite n="eli0003" x="1217" y="1" w="72" h="68" oX="32" oY="20" oW="130" oH="90"/>
+    <sprite n="eli0004" x="1641" y="1" w="70" h="66" oX="33" oY="22" oW="130" oH="90"/>
+    <sprite n="eli0005" x="542" y="80" w="70" h="64" oX="33" oY="24" oW="130" oH="90"/>
+    <sprite n="eli0006" x="1615" y="68" w="70" h="66" oX="32" oY="22" oW="130" oH="90"/>
+    <sprite n="eli0007" x="1260" y="70" w="70" h="68" oX="30" oY="20" oW="130" oH="90"/>
+    <sprite n="eli0008" x="842" y="76" w="72" h="68" oX="28" oY="20" oW="130" oH="90"/>
+    <sprite n="eli0009" x="1757" y="68" w="64" h="66" oX="32" oY="21" oW="130" oH="90"/>
+    <sprite n="eli0010" x="1359" y="1" w="62" h="68" oX="37" oY="19" oW="130" oH="90"/>
+    <sprite n="eli0011" x="1199" y="72" w="60" h="70" oX="41" oY="17" oW="130" oH="90"/>
+    <sprite n="eli0012" x="992" y="72" w="72" h="70" oX="29" oY="18" oW="130" oH="90"/>
+    <sprite n="eli0013" x="1085" y="1" w="68" h="70" oX="31" oY="19" oW="130" oH="90"/>
+    <sprite n="eli0014" x="1134" y="72" w="64" h="70" oX="32" oY="18" oW="130" oH="90"/>
+    <sprite n="eli0015" x="765" y="76" w="76" h="68" oX="34" oY="19" oW="130" oH="90"/>
+    <sprite n="eli0016" x="1542" y="68" w="72" h="66" oX="32" oY="21" oW="130" oH="90"/>
+    <sprite n="eli0017" x="872" y="1" w="66" h="72" oX="32" oY="13" oW="130" oH="90"/>
+    <sprite n="eli0018" x="458" y="1" w="66" h="78" oX="33" oY="7" oW="130" oH="90"/>
+    <sprite n="eli0019" x="797" y="1" w="74" h="74" oX="34" oY="5" oW="130" oH="90"/>
+    <sprite n="eli0020" x="722" y="1" w="74" h="74" oX="34" oY="5" oW="130" oH="90"/>
+    <sprite n="eli0021" x="915" y="74" w="76" h="70" oX="28" oY="6" oW="130" oH="90"/>
+    <sprite n="eli0022" x="645" y="1" w="76" h="74" oX="25" oY="1" oW="130" oH="90"/>
+    <sprite n="eli0023" x="1" y="84" w="80" h="60" oX="21" oY="27" oW="130" oH="90"/>
+    <sprite n="eli0024" x="1842" y="1" w="74" h="62" oX="27" oY="25" oW="130" oH="90"/>
+    <sprite n="eli0025" x="469" y="80" w="72" h="64" oX="29" oY="23" oW="130" oH="90"/>
+    <sprite n="eli0026" x="165" y="82" w="76" h="62" oX="26" oY="26" oW="130" oH="90"/>
+    <sprite n="eli0027" x="1883" y="64" w="76" h="60" oX="27" oY="28" oW="130" oH="90"/>
+    <sprite n="eli0028" x="613" y="80" w="74" h="62" oX="29" oY="26" oW="130" oH="90"/>
+    <sprite n="eli0029" x="396" y="80" w="72" h="64" oX="30" oY="24" oW="130" oH="90"/>
+    <sprite n="eli0030" x="1495" y="1" w="72" h="66" oX="34" oY="21" oW="130" oH="90"/>
+    <sprite n="eli0031" x="317" y="80" w="78" h="64" oX="34" oY="24" oW="130" oH="90"/>
+    <sprite n="eli0032" x="1822" y="68" w="60" h="66" oX="34" oY="22" oW="130" oH="90"/>
+    <sprite n="eli0033" x="1781" y="1" w="60" h="66" oX="33" oY="22" oW="130" oH="90"/>
+    <sprite n="eli0034" x="1469" y="68" w="72" h="66" oX="33" oY="21" oW="130" oH="90"/>
+    <sprite n="eli0035" x="688" y="76" w="76" h="68" oX="38" oY="19" oW="130" oH="90"/>
+    <sprite n="eli0036" x="82" y="82" w="82" h="62" oX="38" oY="25" oW="130" oH="90"/>
+    <sprite n="eli0037" x="1422" y="1" w="72" h="66" oX="38" oY="22" oW="130" oH="90"/>
+    <sprite n="eli0038" x="1290" y="1" w="68" h="68" oX="0" oY="22" oW="130" oH="90"/>
+    <sprite n="eli0039" x="381" y="1" w="76" h="78" oX="28" oY="12" oW="130" oH="90"/>
+    <sprite n="eli0040" x="304" y="1" w="76" h="78" oX="28" oY="12" oW="130" oH="90"/>
+    <sprite n="eli0041" x="1396" y="70" w="72" h="66" oX="29" oY="21" oW="130" oH="90"/>
+    <sprite n="eli0042" x="1960" y="62" w="72" h="60" oX="27" oY="27" oW="130" oH="90"/>
+    <sprite n="eli0043" x="1960" y="1" w="72" h="60" oX="26" oY="27" oW="130" oH="90"/>
+    <sprite n="eli0044" x="242" y="82" w="74" h="62" oX="22" oY="25" oW="130" oH="90"/>
+    <sprite n="eli0045" x="247" y="1" w="56" h="80" oX="30" oY="7" oW="130" oH="90"/>
+    <sprite n="eli0046" x="586" y="1" w="58" h="78" oX="30" oY="9" oW="130" oH="90"/>
+    <sprite n="eli0047" x="525" y="1" w="60" h="78" oX="29" oY="9" oW="130" oH="90"/>
+    <sprite n="eli0048" x="1" y="1" w="58" h="82" oX="29" oY="5" oW="130" oH="90"/>
+    <sprite n="eli0049" x="186" y="1" w="60" h="80" oX="29" oY="7" oW="130" oH="90"/>
+    <sprite n="eli0050" x="123" y="1" w="62" h="80" oX="28" oY="7" oW="130" oH="90"/>
+    <sprite n="eli0051" x="60" y="1" w="62" h="80" oX="28" oY="7" oW="130" oH="90"/>
+    <sprite n="eli_recoil0009" x="1712" y="1" w="68" h="66" oX="31" oY="21" oW="130" oH="90"/>
+    <sprite n="eli_recoil0010" x="1331" y="70" w="64" h="68" oX="38" oY="19" oW="130" oH="90"/>
+    <sprite n="eli_recoil0011" x="1154" y="1" w="62" h="70" oX="42" oY="17" oW="130" oH="90"/>
+    <sprite n="eli_recoil0012" x="939" y="1" w="74" h="70" oX="29" oY="18" oW="130" oH="90"/>
+    <sprite n="eli_recoil0013" x="1014" y="1" w="70" h="70" oX="31" oY="19" oW="130" oH="90"/>
+    <sprite n="eli_recoil0014" x="1065" y="72" w="68" h="70" oX="32" oY="18" oW="130" oH="90"/>
+</TextureAtlas>

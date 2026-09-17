@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:cdd6bba2e0d9ef20b4e4c66abf409e84$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="mario.png" width="1967" height="145">
+    <sprite n="mario0001" x="1559" y="1" w="72" h="72" oX="27" oY="16" oW="130" oH="90"/>
+    <sprite n="mario0002" x="1486" y="1" w="72" h="72" oX="28" oY="16" oW="130" oH="90"/>
+    <sprite n="mario0003" x="987" y="1" w="72" h="74" oX="32" oY="14" oW="130" oH="90"/>
+    <sprite n="mario0004" x="1413" y="1" w="72" h="72" oX="32" oY="16" oW="130" oH="90"/>
+    <sprite n="mario0005" x="1413" y="74" w="72" h="70" oX="32" oY="18" oW="130" oH="90"/>
+    <sprite n="mario0006" x="1703" y="1" w="70" h="72" oX="32" oY="16" oW="130" oH="90"/>
+    <sprite n="mario0007" x="1060" y="1" w="70" h="74" oX="31" oY="14" oW="130" oH="90"/>
+    <sprite n="mario0008" x="1486" y="1" w="72" h="72" oX="28" oY="16" oW="130" oH="90"/>
+    <sprite n="mario0009" x="1774" y="1" w="68" h="72" oX="32" oY="15" oW="130" oH="90"/>
+    <sprite n="mario0010" x="1843" y="1" w="66" h="72" oX="37" oY="15" oW="130" oH="90"/>
+    <sprite n="mario0011" x="1200" y="1" w="64" h="74" oX="40" oY="13" oW="130" oH="90"/>
+    <sprite n="mario0012" x="695" y="1" w="76" h="76" oX="28" oY="12" oW="130" oH="90"/>
+    <sprite n="mario0013" x="847" y="1" w="72" h="76" oX="30" oY="13" oW="130" oH="90"/>
+    <sprite n="mario0014" x="1131" y="1" w="68" h="74" oX="33" oY="14" oW="130" oH="90"/>
+    <sprite n="mario0015" x="1100" y="76" w="76" h="68" oX="34" oY="19" oW="130" oH="90"/>
+    <sprite n="mario0016" x="652" y="78" w="72" h="66" oX="32" oY="21" oW="130" oH="90"/>
+    <sprite n="mario0017" x="1553" y="74" w="66" h="70" oX="32" oY="15" oW="130" oH="90"/>
+    <sprite n="mario0018" x="920" y="1" w="66" h="76" oX="33" oY="9" oW="130" oH="90"/>
+    <sprite n="mario0019" x="772" y="1" w="74" h="76" oX="34" oY="3" oW="130" oH="90"/>
+    <sprite n="mario0020" x="466" y="1" w="74" h="78" oX="34" oY="1" oW="130" oH="90"/>
+    <sprite n="mario0021" x="618" y="1" w="76" h="76" oX="28" oY="0" oW="130" oH="90"/>
+    <sprite n="mario0022" x="541" y="1" w="76" h="76" oX="28" oY="0" oW="130" oH="90"/>
+    <sprite n="mario0023" x="66" y="84" w="80" h="60" oX="27" oY="28" oW="130" oH="90"/>
+    <sprite n="mario0024" x="800" y="78" w="74" h="64" oX="33" oY="24" oW="130" oH="90"/>
+    <sprite n="mario0025" x="1177" y="76" w="72" h="68" oX="35" oY="20" oW="130" oH="90"/>
+    <sprite n="mario0026" x="575" y="78" w="76" h="66" oX="26" oY="22" oW="130" oH="90"/>
+    <sprite n="mario0027" x="498" y="80" w="76" h="64" oX="27" oY="24" oW="130" oH="90"/>
+    <sprite n="mario0028" x="725" y="78" w="74" h="64" oX="29" oY="24" oW="130" oH="90"/>
+    <sprite n="mario0029" x="1340" y="74" w="72" h="70" oX="30" oY="18" oW="130" oH="90"/>
+    <sprite n="mario0030" x="1340" y="1" w="72" h="72" oX="33" oY="15" oW="130" oH="90"/>
+    <sprite n="mario0031" x="1265" y="74" w="74" h="70" oX="34" oY="18" oW="130" oH="90"/>
+    <sprite n="mario0032" x="1620" y="74" w="58" h="70" oX="34" oY="18" oW="130" oH="90"/>
+    <sprite n="mario0033" x="1910" y="1" w="56" h="72" oX="34" oY="16" oW="130" oH="90"/>
+    <sprite n="mario0034" x="1632" y="1" w="70" h="72" oX="34" oY="15" oW="130" oH="90"/>
+    <sprite n="mario0035" x="1023" y="76" w="76" h="68" oX="37" oY="19" oW="130" oH="90"/>
+    <sprite n="mario0036" x="263" y="82" w="80" h="62" oX="39" oY="25" oW="130" oH="90"/>
+    <sprite n="mario0037" x="950" y="78" w="72" h="62" oX="37" oY="26" oW="130" oH="90"/>
+    <sprite n="mario0038" x="1486" y="74" w="66" h="70" oX="2" oY="20" oW="130" oH="90"/>
+    <sprite n="mario0039" x="389" y="1" w="76" h="78" oX="28" oY="12" oW="130" oH="90"/>
+    <sprite n="mario0040" x="389" y="1" w="76" h="78" oX="28" oY="12" oW="130" oH="90"/>
+    <sprite n="mario0041" x="1265" y="1" w="74" h="72" oX="29" oY="15" oW="130" oH="90"/>
+    <sprite n="mario0042" x="875" y="78" w="74" h="62" oX="27" oY="25" oW="130" oH="90"/>
+    <sprite n="mario0043" x="344" y="82" w="74" h="62" oX="26" oY="25" oW="130" oH="90"/>
+    <sprite n="mario0044" x="419" y="80" w="78" h="64" oX="21" oY="23" oW="130" oH="90"/>
+    <sprite n="mario0045" x="200" y="1" w="62" h="82" oX="28" oY="5" oW="130" oH="90"/>
+    <sprite n="mario0046" x="326" y="1" w="62" h="80" oX="27" oY="7" oW="130" oH="90"/>
+    <sprite n="mario0047" x="263" y="1" w="62" h="80" oX="27" oY="7" oW="130" oH="90"/>
+    <sprite n="mario0048" x="1" y="1" w="64" h="84" oX="26" oY="3" oW="130" oH="90"/>
+    <sprite n="mario0049" x="133" y="1" w="66" h="82" oX="25" oY="5" oW="130" oH="90"/>
+    <sprite n="mario0050" x="66" y="1" w="66" h="82" oX="25" oY="5" oW="130" oH="90"/>
+    <sprite n="mario0051" x="66" y="1" w="66" h="82" oX="25" oY="5" oW="130" oH="90"/>
+    <sprite n="mario_recoil0009" x="1774" y="1" w="68" h="72" oX="32" oY="15" oW="130" oH="90"/>
+    <sprite n="mario_recoil0010" x="1843" y="1" w="66" h="72" oX="37" oY="15" oW="130" oH="90"/>
+    <sprite n="mario_recoil0011" x="1200" y="1" w="64" h="74" oX="40" oY="13" oW="130" oH="90"/>
+    <sprite n="mario_recoil0012" x="695" y="1" w="76" h="76" oX="28" oY="12" oW="130" oH="90"/>
+    <sprite n="mario_recoil0013" x="847" y="1" w="72" h="76" oX="30" oY="13" oW="130" oH="90"/>
+    <sprite n="mario_recoil0014" x="1131" y="1" w="68" h="74" oX="33" oY="14" oW="130" oH="90"/>
+</TextureAtlas>

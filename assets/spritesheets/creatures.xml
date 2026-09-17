@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:a95fd1587dc0229fd1ac2bcd021ddc19$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="creatures.png" width="2004" height="227">
+    <sprite n="bat0001" x="1747" y="132" w="115" h="51" oX="3" oY="31" oW="125" oH="85"/>
+    <sprite n="bat0002" x="1863" y="1" w="123" h="49" oX="0" oY="32" oW="125" oH="85"/>
+    <sprite n="bat0003" x="1559" y="1" w="87" h="67" oX="21" oY="0" oW="125" oH="85"/>
+    <sprite n="bat0004" x="1117" y="157" w="95" h="67" oX="14" oY="0" oW="125" oH="85"/>
+    <sprite n="boulder1" x="1617" y="134" w="62" h="64" oX="1" oY="0" oW="64" oH="64"/>
+    <sprite n="boulder2" x="1580" y="69" w="64" h="64"/>
+    <sprite n="boulder3" x="1552" y="147" w="64" h="64"/>
+    <sprite n="boulder_spitter0001" x="1056" y="157" w="60" h="68" oX="19" oY="3" oW="100" oH="100"/>
+    <sprite n="boulder_spitter0002" x="1448" y="76" w="66" h="72" oX="17" oY="2" oW="100" oH="100"/>
+    <sprite n="boulder_spitter0003" x="841" y="98" w="82" h="94" oX="10" oY="2" oW="100" oH="100"/>
+    <sprite n="boulder_spitter0004" x="975" y="1" w="92" h="78" oX="4" oY="2" oW="100" oH="100"/>
+    <sprite n="boulder_spitter0005" x="1183" y="1" w="88" h="76" oX="6" oY="3" oW="100" oH="100"/>
+    <sprite n="boulder_spitter0006" x="900" y="1" w="74" h="86" oX="14" oY="3" oW="100" oH="100"/>
+    <sprite n="boulder_spitter0007" x="1515" y="76" w="64" h="70" oX="19" oY="3" oW="100" oH="100"/>
+    <sprite n="boulder_spitter0008" x="1056" y="157" w="60" h="68" oX="19" oY="3" oW="100" oH="100"/>
+    <sprite n="bushbug0001" x="1814" y="184" w="66" h="34" oX="17" oY="54" oW="110" oH="90"/>
+    <sprite n="bushbug0002" x="1792" y="1" w="68" h="48" oX="16" oY="37" oW="110" oH="90"/>
+    <sprite n="bushbug0003" x="924" y="88" w="70" h="80" oX="16" oY="5" oW="110" oH="90"/>
+    <sprite n="bushbug0004" x="1235" y="78" w="70" h="76" oX="16" oY="9" oW="110" oH="90"/>
+    <sprite n="bushbug0005" x="1140" y="78" w="94" h="76" oX="3" oY="10" oW="110" oH="90"/>
+    <sprite n="bushbug0006" x="1483" y="149" w="68" h="70" oX="17" oY="15" oW="110" oH="90"/>
+    <sprite n="bushbug_idle0001" x="1747" y="184" w="66" h="34" oX="17" oY="54" oW="110" oH="90"/>
+    <sprite n="bushbug_idle0002" x="1680" y="132" w="66" h="58" oX="17" oY="29" oW="110" oH="90"/>
+    <sprite n="bushbug_idle0003" x="1792" y="50" w="66" h="48" oX="17" oY="38" oW="110" oH="90"/>
+    <sprite n="bushbug_idle0004" x="1792" y="50" w="66" h="48" oX="17" oY="38" oW="110" oH="90"/>
+    <sprite n="bushbug_idle0005" x="1863" y="102" w="66" h="44" oX="18" oY="44" oW="110" oH="90"/>
+    <sprite n="bushbug_idle0006" x="924" y="169" w="64" h="54" oX="19" oY="32" oW="110" oH="90"/>
+    <sprite n="bushbug_idle0007" x="989" y="169" w="66" h="52" oX="16" oY="34" oW="110" oH="90"/>
+    <sprite n="bushbug_idle0008" x="1680" y="191" w="66" h="34" oX="17" oY="52" oW="110" oH="90"/>
+    <sprite n="bushbug_idle0009" x="1747" y="184" w="66" h="34" oX="17" oY="54" oW="110" oH="90"/>
+    <sprite n="mimic_hit" x="841" y="1" w="58" h="96" oX="18" oY="23" oW="100" oH="130"/>
+    <sprite n="mimic_trapped" x="1377" y="77" w="70" h="75" oX="13" oY="18" oW="100" oH="165"/>
+    <sprite n="mimic_trapped0001" x="1377" y="77" w="70" h="75" oX="13" oY="18" oW="100" oH="165"/>
+    <sprite n="mimic_trapped0002" x="1343" y="1" w="70" h="75" oX="13" oY="18" oW="100" oH="165"/>
+    <sprite n="mimic_trapped0003" x="1306" y="77" w="70" h="75" oX="13" oY="18" oW="100" oH="165"/>
+    <sprite n="mimic_trapped0004" x="1272" y="1" w="70" h="75" oX="13" oY="18" oW="100" oH="165"/>
+    <sprite n="mimic_trapped0005" x="1343" y="1" w="70" h="75" oX="13" oY="18" oW="100" oH="165"/>
+    <sprite n="mimic_walk0001" x="780" y="104" w="60" h="102" oX="13" oY="18" oW="100" oH="130"/>
+    <sprite n="mimic_walk0002" x="721" y="1" w="58" h="106" oX="15" oY="14" oW="100" oH="130"/>
+    <sprite n="mimic_walk0003" x="662" y="108" w="58" h="106" oX="15" oY="14" oW="100" oH="130"/>
+    <sprite n="mimic_walk0004" x="662" y="1" w="58" h="106" oX="15" oY="14" oW="100" oH="130"/>
+    <sprite n="mimic_walk0005" x="780" y="1" w="60" h="102" oX="13" oY="18" oW="100" oH="130"/>
+    <sprite n="mimic_walk0006" x="721" y="108" w="58" h="104" oX="15" oY="15" oW="100" oH="130"/>
+    <sprite n="mimic_walk0007" x="603" y="108" w="58" h="106" oX="15" oY="13" oW="100" oH="130"/>
+    <sprite n="mimic_walk0008" x="603" y="1" w="58" h="106" oX="15" oY="14" oW="100" oH="130"/>
+    <sprite n="shroom0001" x="1859" y="51" w="144" h="50" oX="4" oY="42" oW="160" oH="100"/>
+    <sprite n="shroom0002" x="1647" y="1" w="144" h="58" oX="5" oY="35" oW="160" oH="100"/>
+    <sprite n="shroom0003" x="1068" y="1" w="114" h="76" oX="32" oY="18" oW="160" oH="100"/>
+    <sprite n="shroom0004" x="1213" y="155" w="134" h="70" oX="0" oY="23" oW="160" oH="100"/>
+    <sprite n="shroom0005" x="1348" y="153" w="134" h="72" oX="2" oY="22" oW="160" oH="100"/>
+    <sprite n="shroom0006" x="1414" y="1" w="144" h="74" oX="2" oY="19" oW="160" oH="100"/>
+    <sprite n="shroom0007" x="995" y="80" w="144" h="76" oX="5" oY="18" oW="160" oH="100"/>
+    <sprite n="shroom_dead" x="1645" y="69" w="128" h="62" oX="22" oY="32" oW="160" oH="100"/>
+    <sprite n="vine0001" x="203" y="1" w="100" h="225"/>
+    <sprite n="vine0002" x="403" y="1" w="98" h="225" oX="2" oY="0" oW="100" oH="225"/>
+    <sprite n="vine0003" x="502" y="1" w="100" h="219" oX="0" oY="0" oW="100" oH="225"/>
+    <sprite n="vine0004" x="102" y="1" w="100" h="225"/>
+    <sprite n="vine0005" x="1" y="1" w="100" h="225"/>
+    <sprite n="vine0006" x="304" y="1" w="98" h="225" oX="2" oY="0" oW="100" oH="225"/>
+</TextureAtlas>

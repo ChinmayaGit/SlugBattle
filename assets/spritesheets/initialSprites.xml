@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:ec5f11a7d9cd01ee20a1ae77ac0cd1d6$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="initialSprites.png" width="824" height="128">
+    <sprite n="platformx12" x="378" y="73" w="192" h="53"/>
+    <sprite n="platformx12_2" x="373" y="1" w="192" h="71"/>
+    <sprite n="platformx12_3" x="1" y="1" w="192" h="85" oX="0" oY="8" oW="192" oH="93"/>
+    <sprite n="platformx8_1" x="695" y="1" w="128" h="59"/>
+    <sprite n="platformx8_2" x="249" y="82" w="128" h="42"/>
+    <sprite n="platformx8_3" x="566" y="1" w="128" h="70"/>
+    <sprite n="wasp0001" x="695" y="61" w="64" h="66" oX="28" oY="31" oW="100" oH="100"/>
+    <sprite n="wasp0002" x="249" y="1" w="60" h="80" oX="28" oY="17" oW="100" oH="100"/>
+    <sprite n="wasp0003" x="194" y="1" w="54" h="84" oX="27" oY="13" oW="100" oH="100"/>
+    <sprite n="wasp0004" x="194" y="1" w="54" h="84" oX="27" oY="13" oW="100" oH="100"/>
+    <sprite n="wasp0005" x="310" y="1" w="62" h="74" oX="28" oY="23" oW="100" oH="100"/>
+    <sprite n="wasp0006" x="695" y="61" w="64" h="66" oX="28" oY="31" oW="100" oH="100"/>
+</TextureAtlas>
